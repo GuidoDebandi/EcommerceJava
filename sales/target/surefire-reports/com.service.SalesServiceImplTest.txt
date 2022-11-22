@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.service.SalesServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.179 s <<< FAILURE! - in com.service.SalesServiceImplTest
+getMostSoldProductsTest  Time elapsed: 1.178 s  <<< ERROR!
+feign.FeignException$ServiceUnavailable: [503] during [GET] to [http://PRODUCTS-SERVICE/products/623332f29986be0866322d4d] [ProductRestConsumer#getProductById(String)]: [Load balancer does not contain an instance for the service PRODUCTS-SERVICE]
+	at com.service.SalesServiceImplTest.getMostSoldProductsTest(SalesServiceImplTest.java:21)
+

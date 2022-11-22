@@ -1,0 +1,5 @@
+com\service\ProductSalesServiceImplTest.class
+com\controller\SalesServiceControllerTest.class
+com\controller\ProductSaleControllerTest.class
+com\service\SalesServiceImplTest.class
+com\ecommerce\cisne\globallogic\ecommerce\ECommerceApplicationTests.class
