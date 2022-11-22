@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>CardsServiceController.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">cards</a> &gt; <a href="index.source.html" class="el_package">com.globallogic.cards.controller</a> &gt; <span class="el_source">CardsServiceController.java</span></div><h1>CardsServiceController.java</h1><pre class="source lang-java linenums">package com.globallogic.cards.controller;
+
+import java.util.Collection;
+import java.util.List;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.consumingwebservice.wsdl.Card;
+import com.globallogic.cards.consumingwebservice.SoapCardsClient;
+import com.globallogic.cards.dto.CardsDTO;
+import com.globallogic.cards.error.exception.WrongCardException;
+import com.globallogic.cards.service.impl.CardsServiceImpl;
+
+@RefreshScope
+@RestController
+<span class="fc" id="L24">public class CardsServiceController {</span>
+
+<span class="fc" id="L26">	private static Logger logger = Logger.getLogger(CardsServiceController.class);</span>
+
+	@Autowired
+	CardsServiceImpl cardsService;
+	@Autowired
+	SoapCardsClient soapCardsClient;
+
+	// READ - GET
+	@RequestMapping(value = { &quot;/cards&quot; }, method = RequestMethod.GET)
+	public ResponseEntity&lt;Object&gt; getCards() {
+<span class="fc" id="L36">		logger.debug(&quot;Se ingreso al metodo getCards&quot;);</span>
+<span class="fc" id="L37">		Collection&lt;CardsDTO&gt; cards = cardsService.getCards();</span>
+<span class="fc" id="L38">		logger.info(&quot;Se ingreso al metodo getCards y se encontraron todas las tarjetas&quot;);</span>
+<span class="fc" id="L39">		return new ResponseEntity&lt;&gt;(cards, HttpStatus.OK);</span>
+	}
+
+	// READ - GET
+	@RequestMapping(value = { &quot;/cardsAll&quot; }, method = RequestMethod.GET)
+	public ResponseEntity&lt;Object&gt; getCardsAll() {
+<span class="nc" id="L45">		logger.debug(&quot;Se ingreso al metodo getCardsAll&quot;);</span>
+<span class="nc" id="L46">		logger.info(&quot;Se ingreso al metodo getCardsAll y se encontraron todas las tarjetas: &quot;);</span>
+<span class="nc" id="L47">		return new ResponseEntity&lt;&gt;(soapCardsClient.getCards(), HttpStatus.OK);</span>
+	}
+
+	// Validar tarjeta existente
+	@RequestMapping(value = { &quot;/cards/{cardNumber}&quot; }, method = RequestMethod.GET)
+	public ResponseEntity&lt;Object&gt; isCardValid(@PathVariable(&quot;cardNumber&quot;) String cardNumber) throws WrongCardException {
+		try {
+<span class="fc" id="L54">			logger.debug(&quot;Se ingreso al metodo isCardValid&quot;);</span>
+<span class="fc" id="L55">			String card = cardsService.validarTarjeta(cardNumber);</span>
+<span class="fc" id="L56">			logger.info(&quot;Se verifico correctamente el numero de tarjeta: &quot; + card);</span>
+<span class="fc" id="L57">			return new ResponseEntity&lt;&gt;(card, HttpStatus.OK);</span>
+<span class="fc" id="L58">		} catch (WrongCardException e) {</span>
+<span class="fc" id="L59">			logger.debug(&quot;Se lanzo una WrongCardException&quot;);</span>
+<span class="fc" id="L60">			throw e;</span>
+		}
+	}
+
+	// Validar tarjeta perteneciente a un cliente
+	@RequestMapping(value = { &quot;/cards/{clientId}/{cardNumber}&quot; }, method = RequestMethod.GET)
+	public ResponseEntity&lt;Object&gt; validarTarjetaCliente(@PathVariable(&quot;cardNumber&quot;) String cardNumber,
+													@PathVariable(&quot;clientId&quot;) String clientId) throws WrongCardException {
+		try {
+<span class="fc" id="L69">			logger.debug(&quot;Se ingreso al metodo isCardClientValid&quot;);</span>
+<span class="fc" id="L70">			Card card = cardsService.validarTarjetaCliente(clientId,cardNumber);</span>
+<span class="fc" id="L71">			logger.info(&quot;La tarjeta &quot; + cardNumber + &quot; corresponde al cliente: &quot; + clientId + &quot; y es valida&quot;);</span>
+<span class="fc" id="L72">			return new ResponseEntity&lt;&gt;(card, HttpStatus.OK);</span>
+<span class="nc" id="L73">		} catch (WrongCardException e) {</span>
+<span class="nc" id="L74">			logger.debug(&quot;Se lanzo una WrongCardException&quot;);</span>
+<span class="nc" id="L75">			throw e;</span>
+		}
+	}
+
+	// Retonar tarjeta por id de cliente
+	@RequestMapping(value = { &quot;/cards/clients/{clientId}&quot; }, method = RequestMethod.GET)
+	public ResponseEntity&lt;Object&gt; returnCardOfClient(@PathVariable(&quot;clientId&quot;) String clientId)
+			throws WrongCardException {
+		try {
+<span class="fc" id="L84">			logger.debug(&quot;Se ingreso al metodo returnCardOfClient&quot;);</span>
+<span class="fc" id="L85">			List&lt;CardsDTO&gt; cards = cardsService.retonarTarjetaCliente(clientId);</span>
+<span class="fc" id="L86">			logger.info(&quot;La tarjetas que corresponden al cliente ingresado son: &quot; + cards);</span>
+<span class="fc" id="L87">			return new ResponseEntity&lt;&gt;(cards, HttpStatus.OK);</span>
+<span class="nc" id="L88">		} catch (WrongCardException e) {</span>
+<span class="nc" id="L89">			logger.debug(&quot;Se lanzo una WrongCardException&quot;);</span>
+<span class="nc" id="L90">			throw e;</span>
+		}
+	}
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.8.202204050719</span></div></body></html>

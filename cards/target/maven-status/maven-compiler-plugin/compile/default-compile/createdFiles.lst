@@ -1,0 +1,12 @@
+com\globallogic\cards\CardsApplication.class
+com\globallogic\cards\consumingwebservice\SoapCardsClient.class
+com\globallogic\cards\service\CardsService.class
+com\globallogic\cards\consumingwebservice\CardsConfiguration.class
+com\globallogic\cards\service\impl\CardsServiceImpl.class
+com\globallogic\cards\controller\CardsServiceController.class
+com\globallogic\cards\error\exception\WrongCardException.class
+com\example\consumingwebservice\wsdl\Card.class
+com\globallogic\cards\dto\CardsDTO.class
+com\example\consumingwebservice\wsdl\Cards.class
+com\example\consumingwebservice\wsdl\ObjectFactory.class
+com\globallogic\cards\error\CardsErrorHandler.class

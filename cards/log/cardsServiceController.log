@@ -1,0 +1,623 @@
+2022-04-11 11:36:00 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 11:36:01 DEBUG CardsServiceController:60 - Se lanzo una WrongCardException
+2022-04-11 11:46:27 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 11:46:28 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-11 12:46:50 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 12:46:51 DEBUG CardsServiceController:60 - Se lanzo una WrongCardException
+2022-04-11 12:47:05 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 12:47:05 DEBUG CardsServiceController:60 - Se lanzo una WrongCardException
+2022-04-11 12:55:04 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 12:55:05 DEBUG CardsServiceController:60 - Se lanzo una WrongCardException
+2022-04-11 12:56:21 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 12:56:46 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 12:56:47 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-11 12:57:10 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 12:57:11 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-11 13:18:08 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 13:18:08 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-11 13:21:28 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 13:21:29 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-11 13:22:17 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 13:22:18 DEBUG CardsServiceController:60 - Se lanzo una WrongCardException
+2022-04-11 13:25:17 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 13:25:18 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-11 13:25:26 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 13:25:26 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-11 13:26:52 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 13:26:52 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-11 15:17:08 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 15:17:09 DEBUG CardsServiceController:60 - Se lanzo una WrongCardException
+2022-04-11 15:17:49 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-11 15:17:49 DEBUG CardsServiceController:60 - Se lanzo una WrongCardException
+2022-04-12 10:22:19 DEBUG CardsServiceController:44 - Se ingreso al metodo isCardValid
+2022-04-12 10:22:19 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-12 10:22:19 DEBUG CardsServiceController:29 - Se ingreso al metodo getCards
+2022-04-12 10:22:19 DEBUG CardsServiceController:44 - Se ingreso al metodo isCardValid
+2022-04-12 10:22:19 DEBUG CardsServiceController:44 - Se ingreso al metodo isCardValid
+2022-04-12 10:22:19 DEBUG CardsServiceController:47 - Se lanzo una WrongCardException
+2022-04-12 10:22:19 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-12 11:39:35 DEBUG CardsServiceController:29 - Se ingreso al metodo getCards
+2022-04-12 12:49:49 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-12 12:50:07 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-12 17:12:41 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-12 17:12:41 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-13 10:54:03 DEBUG CardsServiceController:29 - Se ingreso al metodo getCards
+2022-04-18 16:48:18 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-18 16:48:19 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 14:43:33 DEBUG CardsServiceController:57 - Se ingreso al metodo isCardClientValid
+2022-04-19 14:44:01 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 14:44:02 DEBUG CardsServiceController:73 - Se lanzo una WrongCardException
+2022-04-19 14:46:01 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 14:51:31 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 14:52:08 DEBUG CardsServiceController:29 - Se ingreso al metodo getCards
+2022-04-19 17:26:59 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:01 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:02 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:03 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:04 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:04 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:05 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:06 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:06 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:07 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:08 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:09 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:09 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:10 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:11 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:12 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:12 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:13 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:14 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:14 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:15 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:16 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:17 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:17 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:18 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:19 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:19 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:20 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:21 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:22 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:22 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:40 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:41 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:41 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:42 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:43 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:45 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:47 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:49 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:51 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:52 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:54 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:56 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:58 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:27:59 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:01 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:03 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:05 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:05 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:06 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:07 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:07 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:09 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:11 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:13 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:14 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:16 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:18 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:20 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:22 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:23 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:25 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:27 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:29 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:30 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 17:28:32 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:09 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:10 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:10 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:10 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:13 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:15 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:17 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:19 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:20 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:22 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:24 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:26 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:28 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:30 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:31 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:33 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:35 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:35 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:36 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:37 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:37 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:39 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:41 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:43 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:44 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:46 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:48 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:50 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:51 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:53 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:55 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:57 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:10:58 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:11:00 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-19 18:11:02 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:47:48 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:47:49 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:47:50 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:47:50 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:47:53 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:47:55 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:47:57 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:47:58 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:00 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:02 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:04 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:06 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:07 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:09 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:11 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:13 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:14 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:15 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:15 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:16 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:17 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:19 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:20 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:22 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:24 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:26 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:27 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:29 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:31 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:33 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:34 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:36 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:38 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:40 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:48:42 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:38 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:38 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:39 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:39 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:41 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:43 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:44 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:46 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:48 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:50 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:51 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:53 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:55 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:57 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:52:59 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:00 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:02 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:03 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:03 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:04 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:05 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:06 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:08 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:10 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:12 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:14 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:15 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:17 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:19 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:21 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:23 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:24 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:26 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:28 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:53:30 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:30 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:30 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:30 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:31 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:33 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:35 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:37 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:39 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:40 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:42 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:44 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:46 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:47 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:49 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:51 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:53 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:54 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:55 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:56 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:56 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:57 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:55:59 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:01 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:02 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:04 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:06 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:08 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:09 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:11 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:13 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:15 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:16 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:18 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:20 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 09:56:22 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 10:46:12 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:25:12 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:27:10 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:27:42 DEBUG CardsServiceController:29 - Se ingreso al metodo getCards
+2022-04-20 11:32:17 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:34:13 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:42:18 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:43:11 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:44:54 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:45:27 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:53:00 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:53:15 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:55:14 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:56:39 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:56:46 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 11:57:01 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 12:21:51 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 12:21:51 DEBUG CardsServiceController:73 - Se lanzo una WrongCardException
+2022-04-20 14:15:35 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 14:15:36 DEBUG CardsServiceController:73 - Se lanzo una WrongCardException
+2022-04-20 14:23:56 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 15:21:15 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 15:22:38 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 15:25:56 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 15:31:06 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 15:33:14 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-20 15:38:14 DEBUG CardsServiceController:70 - Se ingreso al metodo returnCardOfClient
+2022-04-22 09:55:09 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-22 09:55:10 DEBUG CardsServiceController:71 - Se lanzo una WrongCardException
+2022-04-22 09:55:38 DEBUG CardsServiceController:33 - Se ingreso al metodo getCards
+2022-04-22 09:55:38 INFO  CardsServiceController:35 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-22 09:55:52 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-22 09:55:53 DEBUG CardsServiceController:71 - Se lanzo una WrongCardException
+2022-04-22 09:56:12 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-22 09:56:12 INFO  CardsServiceController:68 - La tarjeta 1254201254788520 corresponde al cliente: 1 y es valida
+2022-04-22 09:56:12 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-22 09:56:13 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=4, cardIssuer=Visa, payMethodCode=null, cardNumber=1254201254788520, clientId=1)]
+2022-04-22 09:57:17 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-22 09:57:18 INFO  CardsServiceController:68 - La tarjeta 1254201254788520 corresponde al cliente: 1 y es valida
+2022-04-22 09:57:18 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-22 09:57:18 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=4, cardIssuer=Visa, payMethodCode=null, cardNumber=1254201254788520, clientId=1)]
+2022-04-22 09:58:20 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-22 09:58:21 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=4, cardIssuer=Visa, payMethodCode=null, cardNumber=1254201254788520, clientId=1)]
+2022-04-22 10:21:24 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-22 10:21:24 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=4, cardIssuer=Visa, payMethodCode=null, cardNumber=1254201254788520, clientId=1)]
+2022-04-22 10:32:56 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-22 10:32:56 INFO  CardsServiceController:68 - La tarjeta 1254201254788520 corresponde al cliente: 1 y es valida
+2022-04-22 10:32:56 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-22 10:32:56 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=4, cardIssuer=Visa, payMethodCode=null, cardNumber=1254201254788520, clientId=1)]
+2022-04-22 10:50:27 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 10:50:28 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-22 10:50:29 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-22 10:50:29 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-22 10:50:29 DEBUG CardsServiceController:33 - Se ingreso al metodo getCards
+2022-04-22 10:50:29 INFO  CardsServiceController:35 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-22 10:50:29 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 10:50:29 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-22 10:50:29 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 10:50:29 DEBUG CardsServiceController:56 - Se lanzo una WrongCardException
+2022-04-22 10:50:29 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-22 10:50:29 INFO  CardsServiceController:68 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-22 10:54:43 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 10:54:43 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-22 10:54:43 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-22 10:54:43 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-22 10:54:43 DEBUG CardsServiceController:33 - Se ingreso al metodo getCards
+2022-04-22 10:54:43 INFO  CardsServiceController:35 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-22 10:54:43 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 10:54:43 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-22 10:54:43 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 10:54:43 DEBUG CardsServiceController:56 - Se lanzo una WrongCardException
+2022-04-22 10:54:43 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-22 10:54:43 INFO  CardsServiceController:68 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-22 10:56:02 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 10:56:02 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-22 10:56:03 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-22 10:56:03 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-22 10:56:03 DEBUG CardsServiceController:33 - Se ingreso al metodo getCards
+2022-04-22 10:56:03 INFO  CardsServiceController:35 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-22 10:56:03 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 10:56:03 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-22 10:56:03 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 10:56:03 DEBUG CardsServiceController:56 - Se lanzo una WrongCardException
+2022-04-22 10:56:03 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-22 10:56:03 INFO  CardsServiceController:68 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-22 11:03:20 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 11:03:20 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-22 11:03:20 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-22 11:03:20 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-22 11:03:20 DEBUG CardsServiceController:33 - Se ingreso al metodo getCards
+2022-04-22 11:03:20 INFO  CardsServiceController:35 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-22 11:03:20 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 11:03:20 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-22 11:03:20 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-22 11:03:20 DEBUG CardsServiceController:56 - Se lanzo una WrongCardException
+2022-04-22 11:03:20 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-22 11:03:20 INFO  CardsServiceController:68 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-25 11:32:21 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-25 11:32:23 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=4, cardIssuer=Visa, payMethodCode=null, cardNumber=1254201254788520, clientId=1)]
+2022-04-25 11:38:07 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-25 11:38:07 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=4, cardIssuer=Visa, payMethodCode=null, cardNumber=1254201254788520, clientId=1)]
+2022-04-25 11:38:16 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-25 11:38:16 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=4, cardIssuer=Visa, payMethodCode=null, cardNumber=1254201254788520, clientId=1)]
+2022-04-26 14:42:30 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-26 14:42:30 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-26 14:42:31 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-26 14:42:31 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-26 14:42:31 DEBUG CardsServiceController:33 - Se ingreso al metodo getCards
+2022-04-26 14:42:31 INFO  CardsServiceController:35 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-26 14:42:32 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-26 14:42:32 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-26 14:42:32 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-26 14:42:32 DEBUG CardsServiceController:56 - Se lanzo una WrongCardException
+2022-04-26 14:42:32 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-26 14:42:32 INFO  CardsServiceController:68 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-26 15:02:29 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-26 15:02:30 DEBUG CardsServiceController:56 - Se lanzo una WrongCardException
+2022-04-26 15:03:10 DEBUG CardsServiceController:33 - Se ingreso al metodo getCards
+2022-04-26 15:03:10 INFO  CardsServiceController:35 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-26 15:03:17 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-26 15:03:18 INFO  CardsServiceController:68 - La tarjeta 5323458712364589 corresponde al cliente: 2 y es valida
+2022-04-26 16:00:55 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-26 16:00:55 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-26 16:00:56 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-26 16:00:56 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-26 16:00:56 DEBUG CardsServiceController:33 - Se ingreso al metodo getCards
+2022-04-26 16:00:56 INFO  CardsServiceController:35 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-26 16:00:56 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-26 16:00:56 INFO  CardsServiceController:53 - Se verifico correctamente el numero de tarjeta: null
+2022-04-26 16:00:56 DEBUG CardsServiceController:51 - Se ingreso al metodo isCardValid
+2022-04-26 16:00:56 DEBUG CardsServiceController:56 - Se lanzo una WrongCardException
+2022-04-26 16:00:56 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-26 16:00:56 INFO  CardsServiceController:68 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-26 17:34:30 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-26 17:34:30 INFO  CardsServiceController:68 - La tarjeta 5323458712364589 corresponde al cliente: 2 y es valida
+2022-04-26 17:34:30 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-26 17:34:30 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=1, cardIssuer=Master Card, payMethodCode=null, cardNumber=5323458712364589, clientId=2)]
+2022-04-27 10:00:37 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:00:39 INFO  CardsServiceController:68 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-27 10:00:39 DEBUG CardsServiceController:81 - Se ingreso al metodo returnCardOfClient
+2022-04-27 10:00:40 INFO  CardsServiceController:83 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=2, cardIssuer=Visa, payMethodCode=null, cardNumber=1254785698523654, clientId=7)]
+2022-04-27 10:18:48 DEBUG CardsServiceController:33 - Se ingreso al metodo getCards
+2022-04-27 10:18:48 INFO  CardsServiceController:35 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-27 10:18:56 DEBUG CardsServiceController:66 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:18:56 INFO  CardsServiceController:68 - La tarjeta 5323458712364589 corresponde al cliente: 2 y es valida
+2022-04-27 10:20:19 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:20:21 INFO  CardsServiceController:69 - La tarjeta 5323458712364589 corresponde al cliente: 2 y es valida
+2022-04-27 10:24:02 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:24:02 INFO  CardsServiceController:69 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-27 10:26:42 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:26:43 INFO  CardsServiceController:69 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-27 10:27:27 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:27:31 INFO  CardsServiceController:69 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-27 10:28:22 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:28:23 DEBUG CardsServiceController:72 - Se lanzo una WrongCardException
+2022-04-27 10:28:35 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:28:37 DEBUG CardsServiceController:72 - Se lanzo una WrongCardException
+2022-04-27 10:28:57 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:28:59 DEBUG CardsServiceController:72 - Se lanzo una WrongCardException
+2022-04-27 10:37:53 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:37:53 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: null
+2022-04-27 10:37:53 DEBUG CardsServiceController:82 - Se ingreso al metodo returnCardOfClient
+2022-04-27 10:37:53 INFO  CardsServiceController:84 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-27 10:37:53 DEBUG CardsServiceController:34 - Se ingreso al metodo getCards
+2022-04-27 10:37:53 INFO  CardsServiceController:36 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-27 10:37:53 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:37:53 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: null
+2022-04-27 10:37:53 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:37:53 DEBUG CardsServiceController:57 - Se lanzo una WrongCardException
+2022-04-27 10:37:53 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:37:53 INFO  CardsServiceController:69 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-27 10:41:59 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:42:01 DEBUG CardsServiceController:57 - Se lanzo una WrongCardException
+2022-04-27 10:45:52 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:45:52 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: null
+2022-04-27 10:45:52 DEBUG CardsServiceController:82 - Se ingreso al metodo returnCardOfClient
+2022-04-27 10:45:52 INFO  CardsServiceController:84 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-27 10:45:52 DEBUG CardsServiceController:34 - Se ingreso al metodo getCards
+2022-04-27 10:45:52 INFO  CardsServiceController:36 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-27 10:45:52 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:45:52 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: null
+2022-04-27 10:45:52 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:45:52 DEBUG CardsServiceController:57 - Se lanzo una WrongCardException
+2022-04-27 10:45:52 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:45:52 INFO  CardsServiceController:69 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-27 10:46:12 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:46:12 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: null
+2022-04-27 10:46:12 DEBUG CardsServiceController:82 - Se ingreso al metodo returnCardOfClient
+2022-04-27 10:46:12 INFO  CardsServiceController:84 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-27 10:46:12 DEBUG CardsServiceController:34 - Se ingreso al metodo getCards
+2022-04-27 10:46:12 INFO  CardsServiceController:36 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-27 10:46:12 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:46:12 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: null
+2022-04-27 10:46:12 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:46:12 DEBUG CardsServiceController:57 - Se lanzo una WrongCardException
+2022-04-27 10:46:12 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:46:12 INFO  CardsServiceController:69 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-27 10:48:00 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:48:00 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: Tarjeta Valida
+2022-04-27 10:48:00 DEBUG CardsServiceController:82 - Se ingreso al metodo returnCardOfClient
+2022-04-27 10:48:00 INFO  CardsServiceController:84 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-27 10:48:00 DEBUG CardsServiceController:34 - Se ingreso al metodo getCards
+2022-04-27 10:48:00 INFO  CardsServiceController:36 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-27 10:48:00 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:48:00 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: null
+2022-04-27 10:48:00 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:48:00 DEBUG CardsServiceController:57 - Se lanzo una WrongCardException
+2022-04-27 10:48:00 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:48:00 INFO  CardsServiceController:69 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-27 10:56:37 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:56:37 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: Tarjeta Valida
+2022-04-27 10:56:37 DEBUG CardsServiceController:82 - Se ingreso al metodo returnCardOfClient
+2022-04-27 10:56:37 INFO  CardsServiceController:84 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-27 10:56:37 DEBUG CardsServiceController:34 - Se ingreso al metodo getCards
+2022-04-27 10:56:37 INFO  CardsServiceController:36 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-27 10:56:37 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:56:37 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: null
+2022-04-27 10:56:37 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 10:56:37 DEBUG CardsServiceController:57 - Se lanzo una WrongCardException
+2022-04-27 10:56:37 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 10:56:37 INFO  CardsServiceController:69 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-27 14:56:09 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 14:56:09 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: Tarjeta Valida
+2022-04-27 14:56:09 DEBUG CardsServiceController:82 - Se ingreso al metodo returnCardOfClient
+2022-04-27 14:56:09 INFO  CardsServiceController:84 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-27 14:56:09 DEBUG CardsServiceController:34 - Se ingreso al metodo getCards
+2022-04-27 14:56:09 INFO  CardsServiceController:36 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-27 14:56:09 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 14:56:09 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: null
+2022-04-27 14:56:09 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-27 14:56:09 DEBUG CardsServiceController:57 - Se lanzo una WrongCardException
+2022-04-27 14:56:09 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-27 14:56:09 INFO  CardsServiceController:69 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-28 11:01:55 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-28 11:01:55 INFO  CardsServiceController:69 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-28 11:03:06 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-28 11:03:07 INFO  CardsServiceController:69 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-28 11:04:07 DEBUG CardsServiceController:34 - Se ingreso al metodo getCards
+2022-04-28 11:04:07 INFO  CardsServiceController:36 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-28 11:35:30 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-28 11:35:30 INFO  CardsServiceController:69 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-28 11:37:38 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-28 11:37:39 INFO  CardsServiceController:69 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-28 11:45:27 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-28 11:45:27 INFO  CardsServiceController:69 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-28 11:48:49 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-28 11:48:49 INFO  CardsServiceController:69 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-28 18:55:19 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-28 18:55:19 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: Tarjeta Valida
+2022-04-28 18:55:20 DEBUG CardsServiceController:82 - Se ingreso al metodo returnCardOfClient
+2022-04-28 18:55:20 INFO  CardsServiceController:84 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-28 18:55:20 DEBUG CardsServiceController:34 - Se ingreso al metodo getCards
+2022-04-28 18:55:20 INFO  CardsServiceController:36 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-28 18:55:20 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-28 18:55:20 INFO  CardsServiceController:54 - Se verifico correctamente el numero de tarjeta: null
+2022-04-28 18:55:20 DEBUG CardsServiceController:52 - Se ingreso al metodo isCardValid
+2022-04-28 18:55:20 DEBUG CardsServiceController:57 - Se lanzo una WrongCardException
+2022-04-28 18:55:20 DEBUG CardsServiceController:67 - Se ingreso al metodo isCardClientValid
+2022-04-28 18:55:20 INFO  CardsServiceController:69 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-29 12:02:03 DEBUG CardsServiceController:84 - Se ingreso al metodo returnCardOfClient
+2022-04-29 12:02:04 INFO  CardsServiceController:86 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=1, cardIssuer=Master Card, payMethodCode=null, cardNumber=5323458712364589, clientId=2)]
+2022-04-29 12:02:20 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:02:20 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:03:32 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:03:33 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:04:40 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:04:41 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:04:48 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:04:48 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:05:10 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:05:11 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:05:23 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:05:24 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:05:52 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:05:52 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:09:10 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:09:10 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:09:29 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:09:29 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:09:36 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:09:36 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:09:45 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:09:45 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:09:52 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:09:52 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:10:03 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:10:03 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:10:15 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:10:15 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:10:29 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:10:29 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:10:47 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:10:47 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:10:56 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:10:56 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:11:03 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:11:03 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:11:10 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:11:10 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:11:17 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:11:18 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:11:25 DEBUG CardsServiceController:84 - Se ingreso al metodo returnCardOfClient
+2022-04-29 12:11:25 INFO  CardsServiceController:86 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=1, cardIssuer=Master Card, payMethodCode=null, cardNumber=5323458712364589, clientId=2)]
+2022-04-29 12:11:31 DEBUG CardsServiceController:84 - Se ingreso al metodo returnCardOfClient
+2022-04-29 12:11:31 INFO  CardsServiceController:86 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=2, cardIssuer=Visa, payMethodCode=null, cardNumber=1254785698523654, clientId=7)]
+2022-04-29 12:14:07 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:14:07 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:16:03 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:16:03 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:16:07 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:16:07 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:16:15 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:16:15 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:16:19 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:16:19 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:16:24 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:16:24 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:16:29 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:16:29 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:16:34 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:16:34 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:16:39 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:16:39 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:16:44 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:16:44 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:17:05 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:17:05 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:17:09 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:17:10 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:17:14 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:17:15 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:17:20 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:17:20 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:17:26 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:17:27 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:17:35 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:17:35 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 12:28:20 DEBUG CardsServiceController:54 - Se ingreso al metodo isCardValid
+2022-04-29 12:28:20 INFO  CardsServiceController:56 - Se verifico correctamente el numero de tarjeta: Tarjeta Valida
+2022-04-29 12:28:21 DEBUG CardsServiceController:84 - Se ingreso al metodo returnCardOfClient
+2022-04-29 12:28:21 INFO  CardsServiceController:86 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-29 12:28:21 DEBUG CardsServiceController:36 - Se ingreso al metodo getCards
+2022-04-29 12:28:21 INFO  CardsServiceController:38 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-29 12:28:21 DEBUG CardsServiceController:54 - Se ingreso al metodo isCardValid
+2022-04-29 12:28:21 INFO  CardsServiceController:56 - Se verifico correctamente el numero de tarjeta: null
+2022-04-29 12:28:21 DEBUG CardsServiceController:54 - Se ingreso al metodo isCardValid
+2022-04-29 12:28:21 DEBUG CardsServiceController:59 - Se lanzo una WrongCardException
+2022-04-29 12:28:21 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:28:21 INFO  CardsServiceController:71 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-29 12:47:36 DEBUG CardsServiceController:54 - Se ingreso al metodo isCardValid
+2022-04-29 12:47:36 INFO  CardsServiceController:56 - Se verifico correctamente el numero de tarjeta: Tarjeta Valida
+2022-04-29 12:47:36 DEBUG CardsServiceController:84 - Se ingreso al metodo returnCardOfClient
+2022-04-29 12:47:36 INFO  CardsServiceController:86 - La tarjetas que corresponden al cliente ingresado son: []
+2022-04-29 12:47:36 DEBUG CardsServiceController:36 - Se ingreso al metodo getCards
+2022-04-29 12:47:36 INFO  CardsServiceController:38 - Se ingreso al metodo getCards y se encontraron todas las tarjetas
+2022-04-29 12:47:36 DEBUG CardsServiceController:54 - Se ingreso al metodo isCardValid
+2022-04-29 12:47:36 INFO  CardsServiceController:56 - Se verifico correctamente el numero de tarjeta: null
+2022-04-29 12:47:36 DEBUG CardsServiceController:54 - Se ingreso al metodo isCardValid
+2022-04-29 12:47:36 DEBUG CardsServiceController:59 - Se lanzo una WrongCardException
+2022-04-29 12:47:36 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 12:47:36 INFO  CardsServiceController:71 - La tarjeta 123 corresponde al cliente: 1 y es valida
+2022-04-29 14:59:16 DEBUG CardsServiceController:69 - Se ingreso al metodo isCardClientValid
+2022-04-29 14:59:18 INFO  CardsServiceController:71 - La tarjeta 1254785698523654 corresponde al cliente: 7 y es valida
+2022-04-29 14:59:26 DEBUG CardsServiceController:84 - Se ingreso al metodo returnCardOfClient
+2022-04-29 14:59:27 INFO  CardsServiceController:86 - La tarjetas que corresponden al cliente ingresado son: [CardsDTO(id=2, cardIssuer=Visa, payMethodCode=null, cardNumber=1254785698523654, clientId=7)]

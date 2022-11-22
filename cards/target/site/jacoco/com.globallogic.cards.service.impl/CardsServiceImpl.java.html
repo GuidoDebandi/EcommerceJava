@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>CardsServiceImpl.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">cards</a> &gt; <a href="index.source.html" class="el_package">com.globallogic.cards.service.impl</a> &gt; <span class="el_source">CardsServiceImpl.java</span></div><h1>CardsServiceImpl.java</h1><pre class="source lang-java linenums">package com.globallogic.cards.service.impl;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.consumingwebservice.wsdl.Card;
+import com.example.consumingwebservice.wsdl.Cards;
+import com.globallogic.cards.consumingwebservice.SoapCardsClient;
+import com.globallogic.cards.dto.CardsDTO;
+import com.globallogic.cards.error.exception.WrongCardException;
+import com.globallogic.cards.service.CardsService;
+
+@Service
+<span class="fc" id="L17">public class CardsServiceImpl implements CardsService {</span>
+
+	@Autowired
+	private SoapCardsClient soapCardsClient;
+
+	@Override
+	public Collection&lt;CardsDTO&gt; getCards() {
+
+<span class="fc" id="L25">		Cards response = soapCardsClient.getCards();</span>
+
+<span class="fc" id="L27">		List&lt;CardsDTO&gt; listDto = new ArrayList&lt;CardsDTO&gt;();</span>
+
+<span class="fc bfc" id="L29" title="All 2 branches covered.">		for (Card card : response.getCard()) {</span>
+<span class="fc" id="L30">			CardsDTO dto = new CardsDTO();</span>
+<span class="fc" id="L31">			dto.setCardIssuer(card.getCardIssuer());</span>
+<span class="fc" id="L32">			dto.setCardNumber(card.getCardNumber());</span>
+<span class="fc" id="L33">			dto.setId(Long.valueOf(card.getId()));</span>
+<span class="fc" id="L34">			dto.setClientId(card.getClientId());</span>
+<span class="fc" id="L35">			card.setClientId(card.getClientId());</span>
+<span class="fc" id="L36">			listDto.add(dto);</span>
+<span class="fc" id="L37">		}</span>
+<span class="fc" id="L38">		return listDto;</span>
+	}
+
+	@Override
+	public String validarTarjeta(String cardNumber) throws WrongCardException {
+
+<span class="fc" id="L44">		Cards response = soapCardsClient.getCards();</span>
+
+<span class="fc" id="L46">		String mensajeRetonar = &quot;Tarjeta no valida&quot;;</span>
+		
+<span class="fc bfc" id="L48" title="All 2 branches covered.">		for (Card elementoCard : response.getCard()) {</span>
+<span class="fc bfc" id="L49" title="All 2 branches covered.">			if (elementoCard.getCardNumber().equalsIgnoreCase(cardNumber)) {</span>
+<span class="fc" id="L50">				mensajeRetonar = &quot;Tarjeta valida&quot;;</span>
+<span class="fc" id="L51">				return mensajeRetonar;</span>
+			} 
+<span class="fc" id="L53">		}</span>
+<span class="fc" id="L54">		throw new WrongCardException(mensajeRetonar);</span>
+	}
+	
+	@Override
+	public Card validarTarjetaCliente(String clientId, String cardNumber) throws WrongCardException {
+		
+<span class="fc" id="L60">		Cards response = soapCardsClient.getCards();</span>
+		
+<span class="fc" id="L62">		String mensajeRetonar = &quot;La tarjeta no corresponde al cliente&quot;;</span>
+		
+<span class="fc bfc" id="L64" title="All 2 branches covered.">		for (Card elementoCard : response.getCard()) {</span>
+<span class="fc bfc" id="L65" title="All 2 branches covered.">			if (elementoCard.getClientId().equalsIgnoreCase(clientId)</span>
+<span class="fc bfc" id="L66" title="All 2 branches covered.">					&amp;&amp; elementoCard.getCardNumber().equalsIgnoreCase(cardNumber)) {</span>
+<span class="fc" id="L67">				mensajeRetonar = &quot;La tarjeta corresponde al cliente&quot;;</span>
+<span class="fc" id="L68">				return elementoCard;</span>
+			} 
+<span class="fc" id="L70">		}</span>
+<span class="fc" id="L71">		throw new WrongCardException(mensajeRetonar);</span>
+	}
+	
+	@Override
+	public List&lt;CardsDTO&gt; retonarTarjetaCliente(String clientId) throws WrongCardException{
+		
+		//Cards response = soapCardsClient.getCards();
+<span class="fc" id="L78">		Collection&lt;CardsDTO&gt; listaCards = getCards();</span>
+<span class="fc" id="L79">		List&lt;CardsDTO&gt; clientCards=new ArrayList&lt;CardsDTO&gt; ();</span>
+		
+<span class="fc bfc" id="L81" title="All 2 branches covered.">		for (CardsDTO elementoCard : listaCards) {</span>
+<span class="fc bfc" id="L82" title="All 2 branches covered.">			if (elementoCard.getClientId().equalsIgnoreCase(clientId)) {	</span>
+<span class="fc" id="L83">				clientCards.add(elementoCard);</span>
+			} 
+<span class="fc" id="L85">	}</span>
+<span class="fc" id="L86">		return clientCards;</span>
+	}
+}
+
+
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.8.202204050719</span></div></body></html>

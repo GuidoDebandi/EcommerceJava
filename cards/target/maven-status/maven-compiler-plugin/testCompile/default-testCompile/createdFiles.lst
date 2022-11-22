@@ -1,0 +1,3 @@
+com\globallogic\cards\service\CardsServiceImplTest.class
+com\globallogic\cards\controller\CardsServiceControllerTest.class
+com\globallogic\cards\CardsApplicationTests.class
