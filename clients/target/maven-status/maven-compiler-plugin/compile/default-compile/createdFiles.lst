@@ -1,0 +1,11 @@
+com\globallogic\clients\service\ClientRestConsumer.class
+com\globallogic\clients\service\impl\ClientServiceImpl.class
+com\globallogic\clients\service\ClientService.class
+com\globallogic\clients\ClientsApplication.class
+com\globallogic\clients\error\ClientServiceHandler.class
+com\globallogic\clients\error\exception\NonExistentDniException.class
+com\globallogic\clients\dto\ClientListDTO.class
+com\globallogic\clients\error\exception\NonExistentIdException.class
+com\globallogic\clients\repository\ClientRepository.class
+com\globallogic\clients\dto\ClientDTO.class
+com\globallogic\clients\controller\ClientServiceController.class

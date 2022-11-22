@@ -1,0 +1,3 @@
+com\globallogic\clients\repository\ClientRepositoryTest.class
+com\globallogic\clients\controller\ClientServiceControllerTest.class
+com\globallogic\clients\ClientsApplicationTests.class

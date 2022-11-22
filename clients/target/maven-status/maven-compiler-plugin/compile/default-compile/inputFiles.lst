@@ -1,0 +1,11 @@
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\service\ClientService.java
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\dto\ClientDTO.java
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\repository\ClientRepository.java
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\error\exception\NonExistentIdException.java
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\error\exception\NonExistentDniException.java
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\dto\ClientListDTO.java
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\ClientsApplication.java
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\controller\ClientServiceController.java
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\service\impl\ClientServiceImpl.java
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\service\ClientRestConsumer.java
+C:\Users\Guido.Debandi\Desktop\Cisne\clients\src\main\java\com\globallogic\clients\error\ClientServiceHandler.java

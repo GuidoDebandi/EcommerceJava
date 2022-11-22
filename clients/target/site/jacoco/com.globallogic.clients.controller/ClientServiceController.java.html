@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>ClientServiceController.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">clients</a> &gt; <a href="index.source.html" class="el_package">com.globallogic.clients.controller</a> &gt; <span class="el_source">ClientServiceController.java</span></div><h1>ClientServiceController.java</h1><pre class="source lang-java linenums">package com.globallogic.clients.controller;
+
+import javax.validation.Valid;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.globallogic.clients.dto.ClientDTO;
+import com.globallogic.clients.error.exception.NonExistentDniException;
+import com.globallogic.clients.error.exception.NonExistentIdException;
+import com.globallogic.clients.service.impl.ClientServiceImpl;
+
+@RefreshScope
+@RestController
+<span class="fc" id="L22">public class ClientServiceController {</span>
+
+<span class="fc" id="L24">	private static Logger logger = Logger.getLogger(ClientServiceController.class);</span>
+
+	@Autowired
+	ClientServiceImpl clientService;
+
+	// READ - GET
+	@RequestMapping(value = { &quot;/clients&quot; }, method = RequestMethod.GET)
+	public ResponseEntity&lt;Object&gt; getClients() {
+<span class="fc" id="L32">		logger.debug(&quot;Se ingreso al metodo getClients&quot;);</span>
+<span class="fc" id="L33">		logger.info(&quot;Se ingreso al metodo get clients y se encontraron todos los clientes: &quot;);</span>
+<span class="fc" id="L34">		return new ResponseEntity&lt;&gt;(clientService.getClientsAll(), HttpStatus.OK);</span>
+	}
+
+	// READ - GET
+	@RequestMapping(value = { &quot;/clients/id/{id}&quot; }, method = RequestMethod.GET)
+	public ResponseEntity&lt;Object&gt; getClientById(@PathVariable(&quot;id&quot;) Long id) throws NonExistentIdException {
+		try {
+<span class="fc" id="L41">			logger.debug(&quot;Se ingreso al metodo getClientById&quot;);</span>
+<span class="fc" id="L42">			ClientDTO client = clientService.getClientById(id);</span>
+<span class="fc" id="L43">			logger.info(&quot;Se ingreso el id:&quot; + id + &quot; y se encontro al cliente &quot; + client.getName() + &quot; &quot;</span>
+<span class="fc" id="L44">					+ client.getLastName());</span>
+<span class="fc" id="L45">			return new ResponseEntity&lt;&gt;(client, HttpStatus.OK);</span>
+<span class="fc" id="L46">		} catch (NonExistentIdException e) {</span>
+<span class="fc" id="L47">			logger.info(&quot;Se ingreso al metodo getClientsById y no se encontro ningun cliente con ese id.&quot;);</span>
+<span class="fc" id="L48">			throw e;</span>
+		}
+	}
+
+	// READ - GET
+	@RequestMapping(value = { &quot;/clients/dni/{dni}&quot; }, method = RequestMethod.GET)
+	public ResponseEntity&lt;Object&gt; getClientByDni(@Valid @PathVariable(&quot;dni&quot;) Long dni) throws NonExistentDniException {
+		try {
+<span class="fc" id="L56">			logger.debug(&quot;Se ingreso al metodo getClientByDni&quot;);</span>
+<span class="fc" id="L57">			ClientDTO client = clientService.getClientByDni(dni);</span>
+<span class="fc" id="L58">			logger.info(&quot;Se ingreso el dni:&quot; + dni + &quot; y se encontro al cliente: &quot; + client.getName() + &quot; &quot;</span>
+<span class="fc" id="L59">					+ client.getLastName());</span>
+<span class="fc" id="L60">			return new ResponseEntity&lt;&gt;(client, HttpStatus.OK);</span>
+<span class="fc" id="L61">		} catch (NonExistentDniException e) {</span>
+<span class="fc" id="L62">			logger.info(&quot;Se ingreso al metodo getClientByDni y el dni no coincide con ningun cliente.&quot;);</span>
+<span class="fc" id="L63">			throw e;</span>
+		}
+	}
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.8.202204050719</span></div></body></html>

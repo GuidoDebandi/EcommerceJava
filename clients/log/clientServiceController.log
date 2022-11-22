@@ -1,0 +1,201 @@
+2022-04-21 14:24:57 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-21 14:25:00 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-22 09:55:06 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-22 09:55:09 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-22 09:55:52 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-22 09:55:52 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-22 09:56:12 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-22 09:56:12 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-22 09:57:17 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-22 09:57:17 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-22 09:58:19 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-22 09:58:20 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-22 10:21:23 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-22 10:21:23 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-22 10:32:55 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-22 10:32:56 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-25 11:32:17 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-25 11:32:20 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-25 11:38:05 DEBUG ClientServiceController:54 - Se ingreso al metodo getClientByDni
+2022-04-25 11:38:06 INFO  ClientServiceController:56 - Se ingreso el dni:12415423 y se encontro al cliente: Maria Kodama
+2022-04-25 11:38:06 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-25 11:38:06 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-25 11:38:15 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-25 11:38:15 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Maria Kodama
+2022-04-25 11:38:23 DEBUG ClientServiceController:54 - Se ingreso al metodo getClientByDni
+2022-04-25 11:38:24 INFO  ClientServiceController:60 - Se ingreso al metodo getClientByDni y el dni no coincide con ningun cliente.
+2022-04-25 11:38:24 DEBUG ClientServiceController:26 - Se lanzo una NonExistentDniException
+2022-04-25 11:38:31 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-25 11:38:31 INFO  ClientServiceController:45 - Se ingreso al metodo getClientsById y no se encontro ningun cliente con ese id.
+2022-04-25 11:38:31 DEBUG ClientServiceController:20 - Se lanzo una NonExistentIdException
+2022-04-26 11:51:57 DEBUG ClientServiceController:30 - Se ingreso al metodo getClients
+2022-04-26 11:51:57 INFO  ClientServiceController:31 - Se ingreso al metodo get clients y se encontraron todos los clientes: 
+2022-04-26 11:51:57 DEBUG ClientServiceController:54 - Se ingreso al metodo getClientByDni
+2022-04-26 11:51:57 INFO  ClientServiceController:56 - Se ingreso el dni:45412546 y se encontro al cliente: Cristiano Ronaldo
+2022-04-26 11:51:58 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-26 11:51:58 INFO  ClientServiceController:45 - Se ingreso al metodo getClientsById y no se encontro ningun cliente con ese id.
+2022-04-26 11:51:58 DEBUG ClientServiceController:54 - Se ingreso al metodo getClientByDni
+2022-04-26 11:51:58 INFO  ClientServiceController:60 - Se ingreso al metodo getClientByDni y el dni no coincide con ningun cliente.
+2022-04-26 11:51:58 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-26 11:51:58 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Cristiano Ronaldo
+2022-04-26 12:08:09 DEBUG ClientServiceController:30 - Se ingreso al metodo getClients
+2022-04-26 12:08:09 INFO  ClientServiceController:31 - Se ingreso al metodo get clients y se encontraron todos los clientes: 
+2022-04-26 12:08:10 DEBUG ClientServiceController:54 - Se ingreso al metodo getClientByDni
+2022-04-26 12:08:10 INFO  ClientServiceController:56 - Se ingreso el dni:45412546 y se encontro al cliente: Cristiano Ronaldo
+2022-04-26 12:08:10 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-26 12:08:10 INFO  ClientServiceController:45 - Se ingreso al metodo getClientsById y no se encontro ningun cliente con ese id.
+2022-04-26 12:08:10 DEBUG ClientServiceController:54 - Se ingreso al metodo getClientByDni
+2022-04-26 12:08:10 INFO  ClientServiceController:60 - Se ingreso al metodo getClientByDni y el dni no coincide con ningun cliente.
+2022-04-26 12:08:10 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-26 12:08:10 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Cristiano Ronaldo
+2022-04-26 16:00:55 DEBUG ClientServiceController:30 - Se ingreso al metodo getClients
+2022-04-26 16:00:55 INFO  ClientServiceController:31 - Se ingreso al metodo get clients y se encontraron todos los clientes: 
+2022-04-26 16:00:55 DEBUG ClientServiceController:54 - Se ingreso al metodo getClientByDni
+2022-04-26 16:00:55 INFO  ClientServiceController:56 - Se ingreso el dni:45412546 y se encontro al cliente: Cristiano Ronaldo
+2022-04-26 16:00:55 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-26 16:00:55 INFO  ClientServiceController:45 - Se ingreso al metodo getClientsById y no se encontro ningun cliente con ese id.
+2022-04-26 16:00:56 DEBUG ClientServiceController:54 - Se ingreso al metodo getClientByDni
+2022-04-26 16:00:56 INFO  ClientServiceController:60 - Se ingreso al metodo getClientByDni y el dni no coincide con ningun cliente.
+2022-04-26 16:00:56 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-26 16:00:56 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Cristiano Ronaldo
+2022-04-26 17:34:28 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-26 17:34:30 INFO  ClientServiceController:41 - Se ingreso el id:2 y se encontro al cliente Paulo Coelho
+2022-04-26 17:35:06 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-26 17:39:46 DEBUG ClientServiceController:30 - Se ingreso al metodo getClients
+2022-04-26 17:39:46 INFO  ClientServiceController:31 - Se ingreso al metodo get clients y se encontraron todos los clientes: 
+2022-04-26 17:40:59 DEBUG ClientServiceController:30 - Se ingreso al metodo getClients
+2022-04-26 17:40:59 INFO  ClientServiceController:31 - Se ingreso al metodo get clients y se encontraron todos los clientes: 
+2022-04-27 10:00:35 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-27 10:00:37 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-27 10:23:56 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-27 10:24:01 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-27 10:26:42 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-27 10:26:42 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-27 10:27:27 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-27 10:27:27 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-27 10:28:22 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-27 10:28:22 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-27 10:28:35 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-27 10:28:35 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-27 10:28:47 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-27 10:28:47 INFO  ClientServiceController:45 - Se ingreso al metodo getClientsById y no se encontro ningun cliente con ese id.
+2022-04-27 10:28:47 DEBUG ClientServiceController:20 - Se lanzo una NonExistentIdException
+2022-04-27 10:28:57 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-27 10:28:57 INFO  ClientServiceController:41 - Se ingreso el id:10 y se encontro al cliente Herman Melville
+2022-04-27 10:29:04 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-27 10:29:04 INFO  ClientServiceController:41 - Se ingreso el id:10 y se encontro al cliente Herman Melville
+2022-04-28 11:01:53 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-28 11:01:55 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-28 11:03:06 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-28 11:03:06 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-28 11:35:30 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-28 11:35:30 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-28 11:37:38 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-28 11:37:38 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-28 11:45:26 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-28 11:45:27 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-28 11:48:49 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-28 11:48:49 INFO  ClientServiceController:41 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-28 18:35:45 DEBUG ClientServiceController:30 - Se ingreso al metodo getClients
+2022-04-28 18:35:45 INFO  ClientServiceController:31 - Se ingreso al metodo get clients y se encontraron todos los clientes: 
+2022-04-28 18:35:45 DEBUG ClientServiceController:54 - Se ingreso al metodo getClientByDni
+2022-04-28 18:35:45 INFO  ClientServiceController:56 - Se ingreso el dni:45412546 y se encontro al cliente: Cristiano Ronaldo
+2022-04-28 18:35:45 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-28 18:35:45 INFO  ClientServiceController:45 - Se ingreso al metodo getClientsById y no se encontro ningun cliente con ese id.
+2022-04-28 18:35:45 DEBUG ClientServiceController:54 - Se ingreso al metodo getClientByDni
+2022-04-28 18:35:45 INFO  ClientServiceController:60 - Se ingreso al metodo getClientByDni y el dni no coincide con ningun cliente.
+2022-04-28 18:35:45 DEBUG ClientServiceController:39 - Se ingreso al metodo getClientById
+2022-04-28 18:35:45 INFO  ClientServiceController:41 - Se ingreso el id:1 y se encontro al cliente Cristiano Ronaldo
+2022-04-29 12:02:01 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:02:03 INFO  ClientServiceController:43 - Se ingreso el id:2 y se encontro al cliente Paulo Coelho
+2022-04-29 12:02:20 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:02:20 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:03:32 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:03:32 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:04:40 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:04:40 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:04:48 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:04:48 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:05:10 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:05:10 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:05:23 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:05:23 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:05:52 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:05:52 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:09:10 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:09:10 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:09:28 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:09:29 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:09:36 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:09:36 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:09:45 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:09:45 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:09:51 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:09:52 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:10:02 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:10:03 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:10:15 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:10:15 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:10:28 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:10:29 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:10:47 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:10:47 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:10:55 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:10:56 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:11:02 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:11:03 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:11:10 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:11:10 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:11:17 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:11:17 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:11:25 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:11:25 INFO  ClientServiceController:43 - Se ingreso el id:2 y se encontro al cliente Paulo Coelho
+2022-04-29 12:11:31 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:11:31 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:14:06 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:14:07 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:16:02 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:16:03 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:16:07 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:16:07 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:16:14 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:16:15 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:16:19 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:16:19 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:16:23 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:16:24 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:16:29 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:16:29 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:16:34 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:16:34 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:16:39 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:16:39 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:16:44 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:16:44 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:16:50 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:17:05 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:17:05 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:17:09 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:17:09 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:17:14 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:17:14 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:17:19 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:17:20 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:17:26 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:17:26 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:17:35 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:17:35 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 12:28:30 DEBUG ClientServiceController:32 - Se ingreso al metodo getClients
+2022-04-29 12:28:30 INFO  ClientServiceController:33 - Se ingreso al metodo get clients y se encontraron todos los clientes: 
+2022-04-29 12:28:30 DEBUG ClientServiceController:56 - Se ingreso al metodo getClientByDni
+2022-04-29 12:28:30 INFO  ClientServiceController:58 - Se ingreso el dni:45412546 y se encontro al cliente: Cristiano Ronaldo
+2022-04-29 12:28:30 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:28:30 INFO  ClientServiceController:47 - Se ingreso al metodo getClientsById y no se encontro ningun cliente con ese id.
+2022-04-29 12:28:31 DEBUG ClientServiceController:56 - Se ingreso al metodo getClientByDni
+2022-04-29 12:28:31 INFO  ClientServiceController:62 - Se ingreso al metodo getClientByDni y el dni no coincide con ningun cliente.
+2022-04-29 12:28:31 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 12:28:31 INFO  ClientServiceController:43 - Se ingreso el id:1 y se encontro al cliente Cristiano Ronaldo
+2022-04-29 14:59:13 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 14:59:16 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
+2022-04-29 14:59:26 DEBUG ClientServiceController:41 - Se ingreso al metodo getClientById
+2022-04-29 14:59:26 INFO  ClientServiceController:43 - Se ingreso el id:7 y se encontro al cliente Alfonsina Storni
