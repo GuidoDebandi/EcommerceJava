@@ -1,0 +1,1116 @@
+2022-04-20 16:32:21 DEBUG ProductsServiceController:35 - Entrando al metodo getProducts
+2022-04-20 16:35:41 DEBUG ProductsServiceController:35 - Entrando al metodo getProducts
+2022-04-20 16:36:27 DEBUG ProductsServiceController:35 - Entrando al metodo getProducts
+2022-04-20 16:37:33 DEBUG ProductsServiceController:35 - Entrando al metodo getProducts
+2022-04-20 16:53:15 DEBUG ProductsServiceController:48 - Se accedio al metodo de recuperar una lista de productos
+2022-04-20 16:56:47 DEBUG ProductsServiceController:48 - Se accedio al metodo de recuperar una lista de productos
+2022-04-20 17:08:26 DEBUG ProductsServiceController:48 - Se accedio al metodo de recuperar una lista de productos
+2022-04-20 17:08:36 DEBUG ProductsServiceController:48 - Se accedio al metodo de recuperar una lista de productos
+2022-04-20 17:08:44 DEBUG ProductsServiceController:48 - Se accedio al metodo de recuperar una lista de productos
+2022-04-20 17:09:59 DEBUG ProductsServiceController:48 - Se accedio al metodo de recuperar una lista de productos
+2022-04-20 17:11:50 DEBUG ProductsServiceController:48 - Se accedio al metodo de recuperar una lista de productos
+2022-04-20 17:12:55 DEBUG ProductsServiceController:48 - Se accedio al metodo de recuperar una lista de productos
+2022-04-21 10:07:25 DEBUG ProductsServiceController:48 - Se accedio al metodo de recuperar una lista de productos
+2022-04-21 10:41:11 DEBUG ProductsServiceController:36 - Entrando al metodo getProducts
+2022-04-21 10:51:34 DEBUG ProductsServiceController:48 - Se accedio al metodo de recuperar una lista de productos
+2022-04-21 12:48:03 DEBUG ProductsServiceController:63 - Entrando al metodo updateProducts
+2022-04-21 12:48:03 INFO  ProductsServiceController:65 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-21 12:48:03 DEBUG ProductsServiceController:83 - Entrando al metodo reduceFromStockProducts
+2022-04-21 12:48:03 INFO  ProductsServiceController:85 - El stock del producto fue descontado correctamente.
+2022-04-21 12:48:03 DEBUG ProductsServiceController:36 - Entrando al metodo getProducts
+2022-04-21 12:48:03 INFO  ProductsServiceController:38 - Se encontraron todos los productos.
+2022-04-21 12:48:03 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-21 12:48:03 INFO  ProductsServiceController:47 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-21 12:48:03 DEBUG ProductsServiceController:72 - Entrando al metodo deleteProducts
+2022-04-21 12:48:03 INFO  ProductsServiceController:75 - El producto null fue eliminado correctamente.
+2022-04-21 12:48:03 DEBUG ProductsServiceController:54 - Entrando al metodo createProducts
+2022-04-21 12:48:03 INFO  ProductsServiceController:56 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-21 12:48:03 DEBUG ProductsServiceController:92 - Entrando al metodo addStockFromProducts
+2022-04-21 12:48:03 INFO  ProductsServiceController:94 - El stock del producto fue sumado correctamente.
+2022-04-21 13:05:39 DEBUG ProductsServiceController:63 - Entrando al metodo updateProducts
+2022-04-21 13:05:39 INFO  ProductsServiceController:65 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-21 13:05:39 DEBUG ProductsServiceController:83 - Entrando al metodo reduceFromStockProducts
+2022-04-21 13:05:39 INFO  ProductsServiceController:85 - El stock del producto fue descontado correctamente.
+2022-04-21 13:05:39 DEBUG ProductsServiceController:36 - Entrando al metodo getProducts
+2022-04-21 13:05:39 INFO  ProductsServiceController:38 - Se encontraron todos los productos.
+2022-04-21 13:05:39 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-21 13:05:39 INFO  ProductsServiceController:47 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-21 13:05:39 DEBUG ProductsServiceController:72 - Entrando al metodo deleteProducts
+2022-04-21 13:05:39 INFO  ProductsServiceController:75 - El producto null fue eliminado correctamente.
+2022-04-21 13:05:39 DEBUG ProductsServiceController:54 - Entrando al metodo createProducts
+2022-04-21 13:05:39 INFO  ProductsServiceController:56 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-21 13:05:39 DEBUG ProductsServiceController:92 - Entrando al metodo addStockFromProducts
+2022-04-21 13:05:39 INFO  ProductsServiceController:94 - El stock del producto fue sumado correctamente.
+2022-04-21 14:25:01 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-21 14:25:03 INFO  ProductsServiceController:48 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=1) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-21 14:25:04 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-21 14:25:04 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-21 14:29:42 DEBUG ProductsServiceController:56 - Se accedio al metodo de recuperar una lista de productos
+2022-04-21 14:56:43 DEBUG ProductsServiceController:56 - Se accedio al metodo de recuperar una lista de productos
+2022-04-21 14:57:54 DEBUG ProductsServiceController:56 - Se accedio al metodo de recuperar una lista de productos
+2022-04-21 16:55:15 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-21 16:55:17 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=9) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-21 16:55:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-21 16:55:17 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=108) corresponde al id 623235d053addd3c33fa788f
+2022-04-21 16:55:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-21 16:55:18 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-22 09:56:13 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:57:18 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:21 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:21 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:21 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:21 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:21 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:21 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:21 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:21 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:51 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:51 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:51 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:51 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:51 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:51 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 09:58:51 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:54 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:54 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:54 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:54 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:54 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:54 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:21:55 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:22:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:32:48 DEBUG ProductsServiceController:36 - Entrando al metodo getProducts
+2022-04-22 10:32:49 INFO  ProductsServiceController:38 - Se encontraron todos los productos.
+2022-04-22 10:32:56 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 10:32:57 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=9) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-22 10:32:58 DEBUG ProductsServiceController:91 - Entrando al metodo reduceFromStockProducts
+2022-04-22 10:32:58 INFO  ProductsServiceController:93 - El stock del producto fue descontado correctamente.
+2022-04-22 16:50:41 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 16:57:36 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 16:57:36 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-22 16:57:36 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 16:57:37 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-22 16:57:37 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 16:57:37 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-22 16:57:37 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 16:57:38 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-22 16:57:38 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 16:57:38 INFO  ProductsServiceController:47 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=277) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-22 17:09:20 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:09:20 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-22 17:09:20 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:09:21 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-22 17:09:21 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:09:21 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-22 17:09:21 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:09:22 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-22 17:09:22 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:09:22 INFO  ProductsServiceController:47 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=277) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-22 17:09:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:09:23 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-22 17:09:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:09:23 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-22 17:09:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:09:24 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-22 17:09:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:09:24 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-22 17:09:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:09:24 INFO  ProductsServiceController:47 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=277) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-22 17:16:51 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:16:51 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-22 17:16:51 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:16:52 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-22 17:16:52 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:16:52 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-22 17:16:52 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:16:53 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-22 17:16:53 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-22 17:16:53 INFO  ProductsServiceController:47 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=277) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-25 10:38:29 DEBUG ProductsServiceController:29 - Se lanzo una NumberFormatException
+2022-04-25 10:38:37 DEBUG ProductsServiceController:29 - Se lanzo una NumberFormatException
+2022-04-25 10:39:53 DEBUG ProductsServiceController:29 - Se lanzo una NumberFormatException
+2022-04-25 10:39:58 DEBUG ProductsServiceController:29 - Se lanzo una NumberFormatException
+2022-04-25 11:13:48 DEBUG ProductsServiceController:69 - Entrando al metodo updateProducts
+2022-04-25 11:13:48 INFO  ProductsServiceController:71 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-25 11:13:48 DEBUG ProductsServiceController:89 - Entrando al metodo reduceFromStockProducts
+2022-04-25 11:13:48 INFO  ProductsServiceController:91 - El stock del producto fue descontado correctamente.
+2022-04-25 11:13:48 DEBUG ProductsServiceController:36 - Entrando al metodo getProducts
+2022-04-25 11:13:48 INFO  ProductsServiceController:38 - Se encontraron todos los productos.
+2022-04-25 11:13:48 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:13:48 INFO  ProductsServiceController:47 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-25 11:13:48 DEBUG ProductsServiceController:78 - Entrando al metodo deleteProducts
+2022-04-25 11:13:48 INFO  ProductsServiceController:81 - El producto null fue eliminado correctamente.
+2022-04-25 11:13:48 DEBUG ProductsServiceController:57 - Entrando al metodo createProducts
+2022-04-25 11:13:48 INFO  ProductsServiceController:59 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-25 11:13:48 DEBUG ProductsServiceController:98 - Entrando al metodo addStockFromProducts
+2022-04-25 11:13:48 INFO  ProductsServiceController:100 - El stock del producto fue sumado correctamente.
+2022-04-25 11:22:35 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:22:37 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:22:37 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:22:37 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:22:37 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:22:37 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:22:37 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:22:38 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:22:38 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:22:38 INFO  ProductsServiceController:47 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=277) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-25 11:27:43 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:27:43 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:27:43 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:27:44 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:27:44 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:27:44 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:27:44 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:27:45 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:27:45 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:27:45 INFO  ProductsServiceController:47 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=277) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-25 11:32:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:23 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:32:23 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:24 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:32:24 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:24 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:32:24 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:32:25 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:32:25 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:25 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:25 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:25 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:32:25 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:32:25 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:25 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:32:25 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:32:25 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:08 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:38:08 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:08 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:08 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:38:08 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:08 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:08 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:38:08 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:09 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:09 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:38:09 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:09 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:09 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:09 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:38:09 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:38:09 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:38:09 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:09 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:09 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:38:09 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:38:09 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:38:09 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:16 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:38:17 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:18 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 11:38:18 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 11:38:18 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 11:38:18 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 11:41:56 DEBUG ProductsServiceController:69 - Entrando al metodo updateProducts
+2022-04-25 11:41:57 INFO  ProductsServiceController:71 - El producto Product(id=51, description=null, name=null, unitPrice=0.0, stock=0) fue actualizado correctamente.
+2022-04-25 11:55:10 DEBUG ProductsServiceController:29 - Se lanzo una NumberFormatException
+2022-04-25 11:56:18 DEBUG ProductsServiceController:29 - Se lanzo una NumberFormatException
+2022-04-25 13:10:04 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 13:10:04 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 13:10:04 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 13:10:05 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 13:10:05 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 13:10:05 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 13:10:05 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 13:10:07 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 13:10:07 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 13:10:07 INFO  ProductsServiceController:47 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=277) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-25 13:15:12 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 13:15:14 INFO  ProductsServiceController:47 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 13:15:14 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 13:15:14 INFO  ProductsServiceController:47 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=101) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 13:15:14 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 13:15:15 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 13:15:15 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 13:15:15 INFO  ProductsServiceController:47 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 13:15:15 DEBUG ProductsServiceController:45 - Entrando al metodo getProductsById
+2022-04-25 13:15:15 INFO  ProductsServiceController:47 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=277) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-25 16:31:40 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-25 16:31:42 INFO  ProductsServiceController:48 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-25 16:31:42 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-25 16:31:42 INFO  ProductsServiceController:48 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=94) corresponde al id 623235d053addd3c33fa788f
+2022-04-25 16:31:42 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-25 16:31:43 INFO  ProductsServiceController:48 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9973) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-25 16:31:43 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-25 16:31:43 INFO  ProductsServiceController:48 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=8) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-25 16:31:43 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-25 16:31:44 INFO  ProductsServiceController:48 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=277) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-25 16:32:07 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-25 16:32:07 INFO  ProductsServiceController:68 - El producto Product(id=6266f737a6762c3d77f07082, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=10) fue creado correctamente.
+2022-04-25 16:34:10 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-25 16:34:12 INFO  ProductsServiceController:68 - El producto Product(id=6266f7b27bda2502f64397c1, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=10) fue creado correctamente.
+2022-04-25 16:34:22 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-25 16:34:22 INFO  ProductsServiceController:68 - El producto Product(id=6266f7be7bda2502f64397c2, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.0, stock=10) fue creado correctamente.
+2022-04-25 16:34:32 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-25 16:34:33 INFO  ProductsServiceController:68 - El producto Product(id=6266f7c87bda2502f64397c3, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.0, stock=10) fue creado correctamente.
+2022-04-25 16:59:23 DEBUG ProductsServiceController:78 - Entrando al metodo updateProducts
+2022-04-25 16:59:23 INFO  ProductsServiceController:80 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-25 16:59:23 DEBUG ProductsServiceController:98 - Entrando al metodo reduceFromStockProducts
+2022-04-25 16:59:23 INFO  ProductsServiceController:100 - El stock del producto fue descontado correctamente.
+2022-04-25 16:59:23 DEBUG ProductsServiceController:37 - Entrando al metodo getProducts
+2022-04-25 16:59:23 INFO  ProductsServiceController:39 - Se encontraron todos los productos.
+2022-04-25 16:59:23 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-25 16:59:23 INFO  ProductsServiceController:48 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-25 16:59:23 DEBUG ProductsServiceController:87 - Entrando al metodo deleteProducts
+2022-04-25 16:59:23 INFO  ProductsServiceController:90 - El producto null fue eliminado correctamente.
+2022-04-25 16:59:23 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-25 16:59:23 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-25 16:59:23 DEBUG ProductsServiceController:107 - Entrando al metodo addStockFromProducts
+2022-04-25 16:59:23 INFO  ProductsServiceController:109 - El stock del producto fue sumado correctamente.
+2022-04-26 14:45:24 DEBUG ProductsServiceController:78 - Entrando al metodo updateProducts
+2022-04-26 14:45:24 INFO  ProductsServiceController:80 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-26 14:45:25 DEBUG ProductsServiceController:98 - Entrando al metodo reduceFromStockProducts
+2022-04-26 14:45:25 INFO  ProductsServiceController:100 - El stock del producto fue descontado correctamente.
+2022-04-26 14:45:25 DEBUG ProductsServiceController:37 - Entrando al metodo getProducts
+2022-04-26 14:45:25 INFO  ProductsServiceController:39 - Se encontraron todos los productos.
+2022-04-26 14:45:25 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-26 14:45:25 INFO  ProductsServiceController:48 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-26 14:45:25 DEBUG ProductsServiceController:87 - Entrando al metodo deleteProducts
+2022-04-26 14:45:25 INFO  ProductsServiceController:90 - El producto null fue eliminado correctamente.
+2022-04-26 14:45:25 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-26 14:45:25 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-26 14:45:25 DEBUG ProductsServiceController:107 - Entrando al metodo addStockFromProducts
+2022-04-26 14:45:25 INFO  ProductsServiceController:109 - El stock del producto fue sumado correctamente.
+2022-04-26 16:01:03 DEBUG ProductsServiceController:78 - Entrando al metodo updateProducts
+2022-04-26 16:01:03 INFO  ProductsServiceController:80 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-26 16:01:03 DEBUG ProductsServiceController:98 - Entrando al metodo reduceFromStockProducts
+2022-04-26 16:01:03 INFO  ProductsServiceController:100 - El stock del producto fue descontado correctamente.
+2022-04-26 16:01:03 DEBUG ProductsServiceController:37 - Entrando al metodo getProducts
+2022-04-26 16:01:03 INFO  ProductsServiceController:39 - Se encontraron todos los productos.
+2022-04-26 16:01:03 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-26 16:01:03 INFO  ProductsServiceController:48 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-26 16:01:03 DEBUG ProductsServiceController:87 - Entrando al metodo deleteProducts
+2022-04-26 16:01:03 INFO  ProductsServiceController:90 - El producto null fue eliminado correctamente.
+2022-04-26 16:01:04 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-26 16:01:04 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-26 16:01:04 DEBUG ProductsServiceController:107 - Entrando al metodo addStockFromProducts
+2022-04-26 16:01:04 INFO  ProductsServiceController:109 - El stock del producto fue sumado correctamente.
+2022-04-26 16:15:09 DEBUG ProductsServiceController:78 - Entrando al metodo updateProducts
+2022-04-26 16:15:09 INFO  ProductsServiceController:80 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-26 16:15:09 DEBUG ProductsServiceController:98 - Entrando al metodo reduceFromStockProducts
+2022-04-26 16:15:09 INFO  ProductsServiceController:100 - El stock del producto fue descontado correctamente.
+2022-04-26 16:15:09 DEBUG ProductsServiceController:37 - Entrando al metodo getProducts
+2022-04-26 16:15:09 INFO  ProductsServiceController:39 - Se encontraron todos los productos.
+2022-04-26 16:15:09 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-26 16:15:09 INFO  ProductsServiceController:48 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-26 16:15:09 DEBUG ProductsServiceController:87 - Entrando al metodo deleteProducts
+2022-04-26 16:15:09 INFO  ProductsServiceController:90 - El producto null fue eliminado correctamente.
+2022-04-26 16:15:09 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-26 16:15:09 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-26 16:15:09 DEBUG ProductsServiceController:107 - Entrando al metodo addStockFromProducts
+2022-04-26 16:15:09 INFO  ProductsServiceController:109 - El stock del producto fue sumado correctamente.
+2022-04-26 17:34:30 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-26 17:34:31 INFO  ProductsServiceController:48 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=7) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-26 17:34:31 DEBUG ProductsServiceController:98 - Entrando al metodo reduceFromStockProducts
+2022-04-26 17:34:32 INFO  ProductsServiceController:100 - El stock del producto fue descontado correctamente.
+2022-04-27 10:00:40 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-27 10:02:45 DEBUG ProductsServiceController:37 - Entrando al metodo getProducts
+2022-04-27 10:11:49 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-27 10:24:02 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-27 10:27:31 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-27 10:27:33 INFO  ProductsServiceController:48 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=6) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-27 10:27:33 DEBUG ProductsServiceController:98 - Entrando al metodo reduceFromStockProducts
+2022-04-27 10:27:34 INFO  ProductsServiceController:100 - El stock del producto fue descontado correctamente.
+2022-04-27 10:29:04 DEBUG ProductsServiceController:46 - Entrando al metodo getProductsById
+2022-04-27 10:29:05 INFO  ProductsServiceController:48 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=5) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-27 10:29:05 DEBUG ProductsServiceController:98 - Entrando al metodo reduceFromStockProducts
+2022-04-27 10:29:06 INFO  ProductsServiceController:100 - El stock del producto fue descontado correctamente.
+2022-04-27 12:00:10 DEBUG ProductsServiceController:68 - Entrando al metodo createProducts
+2022-04-27 12:00:15 INFO  ProductsServiceController:70 - El producto Product(id=62695a7a00d4ba6266945e98, description=Tomate Redondo Monsanto, name=Precio x kilo, unitPrice=0.0, stock=700) fue creado correctamente.
+2022-04-27 12:03:26 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 12:03:27 INFO  ProductsServiceController:82 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 12:10:02 DEBUG ProductsServiceController:79 - Entrando al metodo updateProducts
+2022-04-27 12:10:02 INFO  ProductsServiceController:81 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 12:10:02 DEBUG ProductsServiceController:99 - Entrando al metodo reduceFromStockProducts
+2022-04-27 12:10:02 INFO  ProductsServiceController:101 - El stock del producto fue descontado correctamente.
+2022-04-27 12:10:02 DEBUG ProductsServiceController:38 - Entrando al metodo getProducts
+2022-04-27 12:10:02 INFO  ProductsServiceController:40 - Se encontraron todos los productos.
+2022-04-27 12:10:02 DEBUG ProductsServiceController:47 - Entrando al metodo getProductsById
+2022-04-27 12:10:02 INFO  ProductsServiceController:49 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 12:10:02 DEBUG ProductsServiceController:88 - Entrando al metodo deleteProducts
+2022-04-27 12:10:02 INFO  ProductsServiceController:91 - El producto null fue eliminado correctamente.
+2022-04-27 12:10:02 DEBUG ProductsServiceController:67 - Entrando al metodo createProducts
+2022-04-27 12:10:02 INFO  ProductsServiceController:69 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 12:10:02 DEBUG ProductsServiceController:108 - Entrando al metodo addStockFromProducts
+2022-04-27 12:10:02 INFO  ProductsServiceController:110 - El stock del producto fue sumado correctamente.
+2022-04-27 12:13:03 DEBUG ProductsServiceController:79 - Entrando al metodo updateProducts
+2022-04-27 12:13:03 INFO  ProductsServiceController:81 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 12:13:03 DEBUG ProductsServiceController:99 - Entrando al metodo reduceFromStockProducts
+2022-04-27 12:13:03 INFO  ProductsServiceController:101 - El stock del producto fue descontado correctamente.
+2022-04-27 12:13:03 DEBUG ProductsServiceController:38 - Entrando al metodo getProducts
+2022-04-27 12:13:03 INFO  ProductsServiceController:40 - Se encontraron todos los productos.
+2022-04-27 12:13:03 DEBUG ProductsServiceController:47 - Entrando al metodo getProductsById
+2022-04-27 12:13:03 INFO  ProductsServiceController:49 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 12:13:03 DEBUG ProductsServiceController:88 - Entrando al metodo deleteProducts
+2022-04-27 12:13:03 INFO  ProductsServiceController:91 - El producto null fue eliminado correctamente.
+2022-04-27 12:13:03 DEBUG ProductsServiceController:67 - Entrando al metodo createProducts
+2022-04-27 12:13:03 INFO  ProductsServiceController:69 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 12:13:03 DEBUG ProductsServiceController:108 - Entrando al metodo addStockFromProducts
+2022-04-27 12:13:03 INFO  ProductsServiceController:110 - El stock del producto fue sumado correctamente.
+2022-04-27 12:15:51 DEBUG ProductsServiceController:79 - Entrando al metodo updateProducts
+2022-04-27 12:15:51 INFO  ProductsServiceController:81 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 12:15:51 DEBUG ProductsServiceController:99 - Entrando al metodo reduceFromStockProducts
+2022-04-27 12:15:51 INFO  ProductsServiceController:101 - El stock del producto fue descontado correctamente.
+2022-04-27 12:15:51 DEBUG ProductsServiceController:38 - Entrando al metodo getProducts
+2022-04-27 12:15:51 INFO  ProductsServiceController:40 - Se encontraron todos los productos.
+2022-04-27 12:15:51 DEBUG ProductsServiceController:47 - Entrando al metodo getProductsById
+2022-04-27 12:15:51 INFO  ProductsServiceController:49 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 12:15:51 DEBUG ProductsServiceController:88 - Entrando al metodo deleteProducts
+2022-04-27 12:15:51 INFO  ProductsServiceController:91 - El producto null fue eliminado correctamente.
+2022-04-27 12:15:51 DEBUG ProductsServiceController:67 - Entrando al metodo createProducts
+2022-04-27 12:15:51 INFO  ProductsServiceController:69 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 12:15:51 DEBUG ProductsServiceController:108 - Entrando al metodo addStockFromProducts
+2022-04-27 12:15:51 INFO  ProductsServiceController:110 - El stock del producto fue sumado correctamente.
+2022-04-27 12:18:02 DEBUG ProductsServiceController:79 - Entrando al metodo updateProducts
+2022-04-27 12:18:02 INFO  ProductsServiceController:81 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 12:18:02 DEBUG ProductsServiceController:99 - Entrando al metodo reduceFromStockProducts
+2022-04-27 12:18:02 INFO  ProductsServiceController:101 - El stock del producto fue descontado correctamente.
+2022-04-27 12:18:02 DEBUG ProductsServiceController:38 - Entrando al metodo getProducts
+2022-04-27 12:18:02 INFO  ProductsServiceController:40 - Se encontraron todos los productos.
+2022-04-27 12:18:02 DEBUG ProductsServiceController:47 - Entrando al metodo getProductsById
+2022-04-27 12:18:02 INFO  ProductsServiceController:49 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 12:18:02 DEBUG ProductsServiceController:88 - Entrando al metodo deleteProducts
+2022-04-27 12:18:02 INFO  ProductsServiceController:91 - El producto null fue eliminado correctamente.
+2022-04-27 12:18:02 DEBUG ProductsServiceController:67 - Entrando al metodo createProducts
+2022-04-27 12:18:02 INFO  ProductsServiceController:69 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 12:18:02 DEBUG ProductsServiceController:108 - Entrando al metodo addStockFromProducts
+2022-04-27 12:18:02 INFO  ProductsServiceController:110 - El stock del producto fue sumado correctamente.
+2022-04-27 12:21:25 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 12:21:26 INFO  ProductsServiceController:82 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 12:24:11 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 12:24:11 INFO  ProductsServiceController:82 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 12:24:12 DEBUG ProductsServiceController:100 - Entrando al metodo reduceFromStockProducts
+2022-04-27 12:24:12 INFO  ProductsServiceController:102 - El stock del producto fue descontado correctamente.
+2022-04-27 12:24:12 DEBUG ProductsServiceController:39 - Entrando al metodo getProducts
+2022-04-27 12:24:12 INFO  ProductsServiceController:41 - Se encontraron todos los productos.
+2022-04-27 12:24:12 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 12:24:12 INFO  ProductsServiceController:50 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 12:24:12 DEBUG ProductsServiceController:89 - Entrando al metodo deleteProducts
+2022-04-27 12:24:12 INFO  ProductsServiceController:92 - El producto null fue eliminado correctamente.
+2022-04-27 12:24:12 DEBUG ProductsServiceController:68 - Entrando al metodo createProducts
+2022-04-27 12:24:12 INFO  ProductsServiceController:70 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 12:24:12 DEBUG ProductsServiceController:109 - Entrando al metodo addStockFromProducts
+2022-04-27 12:24:12 INFO  ProductsServiceController:111 - El stock del producto fue sumado correctamente.
+2022-04-27 12:31:15 DEBUG ProductsServiceController:74 - Entrando al metodo updateProducts
+2022-04-27 12:32:48 DEBUG ProductsServiceController:74 - Entrando al metodo updateProducts
+2022-04-27 12:32:48 INFO  ProductsServiceController:76 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 12:34:18 DEBUG ProductsServiceController:74 - Entrando al metodo updateProducts
+2022-04-27 12:34:18 INFO  ProductsServiceController:76 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 12:34:23 DEBUG ProductsServiceController:74 - Entrando al metodo updateProducts
+2022-04-27 12:34:23 INFO  ProductsServiceController:76 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=10.0, stock=90) fue actualizado correctamente.
+2022-04-27 12:34:42 DEBUG ProductsServiceController:74 - Entrando al metodo updateProducts
+2022-04-27 12:34:42 INFO  ProductsServiceController:76 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 12:35:30 DEBUG ProductsServiceController:74 - Entrando al metodo updateProducts
+2022-04-27 12:35:32 INFO  ProductsServiceController:76 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 12:35:39 DEBUG ProductsServiceController:74 - Entrando al metodo updateProducts
+2022-04-27 12:35:40 INFO  ProductsServiceController:76 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=10.0, stock=90) fue actualizado correctamente.
+2022-04-27 12:35:44 DEBUG ProductsServiceController:74 - Entrando al metodo updateProducts
+2022-04-27 12:35:45 INFO  ProductsServiceController:76 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 12:37:25 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 12:37:26 INFO  ProductsServiceController:82 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 12:38:34 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 12:38:35 INFO  ProductsServiceController:82 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 12:38:35 DEBUG ProductsServiceController:100 - Entrando al metodo reduceFromStockProducts
+2022-04-27 12:38:35 INFO  ProductsServiceController:102 - El stock del producto fue descontado correctamente.
+2022-04-27 12:38:35 DEBUG ProductsServiceController:39 - Entrando al metodo getProducts
+2022-04-27 12:38:35 INFO  ProductsServiceController:41 - Se encontraron todos los productos.
+2022-04-27 12:38:35 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 12:38:35 INFO  ProductsServiceController:50 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 12:38:35 DEBUG ProductsServiceController:89 - Entrando al metodo deleteProducts
+2022-04-27 12:38:35 INFO  ProductsServiceController:92 - El producto null fue eliminado correctamente.
+2022-04-27 12:38:35 DEBUG ProductsServiceController:68 - Entrando al metodo createProducts
+2022-04-27 12:38:35 INFO  ProductsServiceController:70 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 12:38:35 DEBUG ProductsServiceController:109 - Entrando al metodo addStockFromProducts
+2022-04-27 12:38:35 INFO  ProductsServiceController:111 - El stock del producto fue sumado correctamente.
+2022-04-27 12:43:32 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 12:43:32 INFO  ProductsServiceController:82 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 12:43:33 DEBUG ProductsServiceController:100 - Entrando al metodo reduceFromStockProducts
+2022-04-27 12:43:33 INFO  ProductsServiceController:102 - El stock del producto fue descontado correctamente.
+2022-04-27 12:43:33 DEBUG ProductsServiceController:39 - Entrando al metodo getProducts
+2022-04-27 12:43:33 INFO  ProductsServiceController:41 - Se encontraron todos los productos.
+2022-04-27 12:43:33 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 12:43:33 INFO  ProductsServiceController:50 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 12:43:33 DEBUG ProductsServiceController:89 - Entrando al metodo deleteProducts
+2022-04-27 12:43:33 INFO  ProductsServiceController:92 - El producto null fue eliminado correctamente.
+2022-04-27 12:43:33 DEBUG ProductsServiceController:68 - Entrando al metodo createProducts
+2022-04-27 12:43:33 INFO  ProductsServiceController:70 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 12:43:33 DEBUG ProductsServiceController:109 - Entrando al metodo addStockFromProducts
+2022-04-27 12:43:33 INFO  ProductsServiceController:111 - El stock del producto fue sumado correctamente.
+2022-04-27 12:55:21 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 12:55:21 INFO  ProductsServiceController:82 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 12:55:22 DEBUG ProductsServiceController:100 - Entrando al metodo reduceFromStockProducts
+2022-04-27 12:55:22 INFO  ProductsServiceController:102 - El stock del producto fue descontado correctamente.
+2022-04-27 12:55:22 DEBUG ProductsServiceController:39 - Entrando al metodo getProducts
+2022-04-27 12:55:22 INFO  ProductsServiceController:41 - Se encontraron todos los productos.
+2022-04-27 12:55:22 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 12:55:22 INFO  ProductsServiceController:50 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 12:55:22 DEBUG ProductsServiceController:89 - Entrando al metodo deleteProducts
+2022-04-27 12:55:22 INFO  ProductsServiceController:92 - El producto null fue eliminado correctamente.
+2022-04-27 12:55:22 DEBUG ProductsServiceController:68 - Entrando al metodo createProducts
+2022-04-27 12:55:22 INFO  ProductsServiceController:70 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 12:55:22 DEBUG ProductsServiceController:109 - Entrando al metodo addStockFromProducts
+2022-04-27 12:55:22 INFO  ProductsServiceController:111 - El stock del producto fue sumado correctamente.
+2022-04-27 13:13:09 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 13:13:09 INFO  ProductsServiceController:82 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 13:13:09 DEBUG ProductsServiceController:100 - Entrando al metodo reduceFromStockProducts
+2022-04-27 13:13:09 INFO  ProductsServiceController:102 - El stock del producto fue descontado correctamente.
+2022-04-27 13:13:09 DEBUG ProductsServiceController:39 - Entrando al metodo getProducts
+2022-04-27 13:13:09 INFO  ProductsServiceController:41 - Se encontraron todos los productos.
+2022-04-27 13:13:09 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 13:13:09 INFO  ProductsServiceController:50 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 13:13:09 DEBUG ProductsServiceController:89 - Entrando al metodo deleteProducts
+2022-04-27 13:13:09 INFO  ProductsServiceController:92 - El producto null fue eliminado correctamente.
+2022-04-27 13:13:09 DEBUG ProductsServiceController:68 - Entrando al metodo createProducts
+2022-04-27 13:13:09 INFO  ProductsServiceController:70 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 13:13:09 DEBUG ProductsServiceController:109 - Entrando al metodo addStockFromProducts
+2022-04-27 13:13:09 INFO  ProductsServiceController:111 - El stock del producto fue sumado correctamente.
+2022-04-27 13:14:05 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 13:14:05 INFO  ProductsServiceController:82 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 13:14:18 DEBUG ProductsServiceController:30 - Se lanzo una NumberFormatException
+2022-04-27 13:15:46 DEBUG ProductsServiceController:30 - Se lanzo una NumberFormatException
+2022-04-27 13:15:54 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 13:15:54 INFO  ProductsServiceController:82 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 13:53:50 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 13:53:50 INFO  ProductsServiceController:82 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 13:57:40 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 13:57:40 INFO  ProductsServiceController:50 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=42) corresponde al id 623332f29986be0866322d4d
+2022-04-27 13:57:40 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 13:57:41 INFO  ProductsServiceController:50 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=48) corresponde al id 623235d053addd3c33fa788f
+2022-04-27 13:57:41 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 13:57:41 INFO  ProductsServiceController:50 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9939) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-27 13:57:41 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 13:57:42 INFO  ProductsServiceController:50 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=10.0, stock=4) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-27 13:57:42 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 13:57:42 INFO  ProductsServiceController:50 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=272) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-27 14:10:56 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 14:10:56 INFO  ProductsServiceController:82 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 14:10:56 DEBUG ProductsServiceController:100 - Entrando al metodo reduceFromStockProducts
+2022-04-27 14:10:56 INFO  ProductsServiceController:102 - El stock del producto fue descontado correctamente.
+2022-04-27 14:10:56 DEBUG ProductsServiceController:39 - Entrando al metodo getProducts
+2022-04-27 14:10:56 INFO  ProductsServiceController:41 - Se encontraron todos los productos.
+2022-04-27 14:10:56 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 14:10:56 INFO  ProductsServiceController:50 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 14:10:57 DEBUG ProductsServiceController:89 - Entrando al metodo deleteProducts
+2022-04-27 14:10:57 INFO  ProductsServiceController:92 - El producto null fue eliminado correctamente.
+2022-04-27 14:10:57 DEBUG ProductsServiceController:68 - Entrando al metodo createProducts
+2022-04-27 14:10:57 INFO  ProductsServiceController:70 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 14:10:57 DEBUG ProductsServiceController:109 - Entrando al metodo addStockFromProducts
+2022-04-27 14:10:57 INFO  ProductsServiceController:111 - El stock del producto fue sumado correctamente.
+2022-04-27 14:12:22 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 14:12:22 INFO  ProductsServiceController:82 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 14:13:17 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 14:13:18 INFO  ProductsServiceController:82 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=0.0, stock=90) fue actualizado correctamente.
+2022-04-27 14:27:15 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 14:27:23 DEBUG ProductsServiceController:30 - Se lanzo una NumberFormatException
+2022-04-27 14:29:07 DEBUG ProductsServiceController:80 - Entrando al metodo updateProducts
+2022-04-27 14:29:07 INFO  ProductsServiceController:82 - El producto Product(id=611a1a111a1a11a1c4330a9c5, description=100% Libre de Hormonas, name=Leche, unitPrice=10.0, stock=90) fue actualizado correctamente.
+2022-04-27 14:29:11 DEBUG ProductsServiceController:30 - Se lanzo una NumberFormatException
+2022-04-27 14:37:32 DEBUG ProductsServiceController:30 - Se lanzo una NumberFormatException
+2022-04-27 14:42:05 DEBUG ProductsServiceController:31 - Se lanzo una NumberFormatException
+2022-04-27 14:43:18 DEBUG ProductsServiceController:31 - Se lanzo una NumberFormatException
+2022-04-27 14:43:23 DEBUG ProductsServiceController:31 - Se lanzo una NumberFormatException
+2022-04-27 14:43:28 DEBUG ProductsServiceController:31 - Se lanzo una NumberFormatException
+2022-04-27 14:49:47 DEBUG ProductsServiceController:74 - Entrando al metodo updateProducts
+2022-04-27 14:49:47 INFO  ProductsServiceController:76 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-27 14:49:47 DEBUG ProductsServiceController:94 - Entrando al metodo reduceFromStockProducts
+2022-04-27 14:49:47 INFO  ProductsServiceController:96 - El stock del producto fue descontado correctamente.
+2022-04-27 14:49:47 DEBUG ProductsServiceController:39 - Entrando al metodo getProducts
+2022-04-27 14:49:47 INFO  ProductsServiceController:41 - Se encontraron todos los productos.
+2022-04-27 14:49:47 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-27 14:49:47 INFO  ProductsServiceController:50 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-27 14:49:47 DEBUG ProductsServiceController:83 - Entrando al metodo deleteProducts
+2022-04-27 14:49:47 INFO  ProductsServiceController:86 - El producto null fue eliminado correctamente.
+2022-04-27 14:49:47 DEBUG ProductsServiceController:65 - Entrando al metodo createProducts
+2022-04-27 14:49:47 INFO  ProductsServiceController:67 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-27 14:49:47 DEBUG ProductsServiceController:103 - Entrando al metodo addStockFromProducts
+2022-04-27 14:49:47 INFO  ProductsServiceController:105 - El stock del producto fue sumado correctamente.
+2022-04-27 14:52:32 DEBUG ProductsServiceController:31 - Se lanzo una NumberFormatException
+2022-04-28 11:01:56 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:03:07 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:03:08 INFO  ProductsServiceController:50 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=38) corresponde al id 623235d053addd3c33fa788f
+2022-04-28 11:03:09 DEBUG ProductsServiceController:94 - Entrando al metodo reduceFromStockProducts
+2022-04-28 11:03:09 INFO  ProductsServiceController:96 - El stock del producto fue descontado correctamente.
+2022-04-28 11:34:44 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:34:45 INFO  ProductsServiceController:50 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=27) corresponde al id 623332f29986be0866322d4d
+2022-04-28 11:34:45 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:34:45 INFO  ProductsServiceController:50 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=35) corresponde al id 623235d053addd3c33fa788f
+2022-04-28 11:34:45 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:34:45 INFO  ProductsServiceController:50 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9909) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-28 11:34:45 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:34:46 INFO  ProductsServiceController:50 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=50.0, stock=9000) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-28 11:34:46 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:34:46 INFO  ProductsServiceController:50 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=237) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-28 11:35:30 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:35:31 INFO  ProductsServiceController:50 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=35) corresponde al id 623235d053addd3c33fa788f
+2022-04-28 11:35:31 DEBUG ProductsServiceController:94 - Entrando al metodo reduceFromStockProducts
+2022-04-28 11:35:31 INFO  ProductsServiceController:96 - El stock del producto fue descontado correctamente.
+2022-04-28 11:37:39 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:37:39 INFO  ProductsServiceController:50 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=32) corresponde al id 623235d053addd3c33fa788f
+2022-04-28 11:45:27 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:45:28 INFO  ProductsServiceController:50 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=32) corresponde al id 623235d053addd3c33fa788f
+2022-04-28 11:45:28 DEBUG ProductsServiceController:94 - Entrando al metodo reduceFromStockProducts
+2022-04-28 11:45:28 INFO  ProductsServiceController:96 - El stock del producto fue descontado correctamente.
+2022-04-28 11:48:49 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:48:50 INFO  ProductsServiceController:50 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=29) corresponde al id 623235d053addd3c33fa788f
+2022-04-28 11:48:50 DEBUG ProductsServiceController:94 - Entrando al metodo reduceFromStockProducts
+2022-04-28 11:48:50 INFO  ProductsServiceController:96 - El stock del producto fue descontado correctamente.
+2022-04-28 11:57:02 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:57:03 INFO  ProductsServiceController:50 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=27) corresponde al id 623332f29986be0866322d4d
+2022-04-28 11:57:03 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:57:03 INFO  ProductsServiceController:50 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=26) corresponde al id 623235d053addd3c33fa788f
+2022-04-28 11:57:03 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:57:03 INFO  ProductsServiceController:50 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9909) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-28 11:57:03 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:57:04 INFO  ProductsServiceController:50 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=50.0, stock=9000) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-28 11:57:04 DEBUG ProductsServiceController:48 - Entrando al metodo getProductsById
+2022-04-28 11:57:04 INFO  ProductsServiceController:50 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=237) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-28 17:58:48 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-28 17:58:48 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-28 17:58:48 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-28 17:58:48 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-28 17:58:48 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-28 17:58:48 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-28 17:58:49 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-28 17:58:49 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-28 17:58:49 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-28 17:58:49 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-28 17:58:49 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-28 17:58:49 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-28 17:58:49 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-28 17:58:49 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-28 18:01:32 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-28 18:01:32 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-28 18:01:33 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-28 18:01:33 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-28 18:01:33 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-28 18:01:33 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-28 18:01:33 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-28 18:01:33 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-28 18:01:33 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-28 18:01:33 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-28 18:01:33 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-28 18:01:33 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-28 18:01:33 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-28 18:01:33 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-28 18:04:28 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-28 18:04:28 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-28 18:04:28 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-28 18:04:28 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-28 18:04:28 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-28 18:04:28 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-28 18:04:28 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-28 18:04:28 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-28 18:04:28 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-28 18:04:28 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-28 18:04:29 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-28 18:04:29 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-28 18:04:29 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-28 18:04:29 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-28 18:08:46 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-28 18:08:46 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-28 18:08:46 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-28 18:08:46 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-28 18:08:46 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-28 18:08:46 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-28 18:08:46 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-28 18:08:46 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-28 18:08:46 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-28 18:08:46 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-28 18:08:46 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-28 18:08:46 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-28 18:08:46 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-28 18:08:46 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-28 18:12:27 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-28 18:12:27 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-28 18:12:28 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-28 18:12:28 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-28 18:12:28 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-28 18:12:28 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-28 18:12:28 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-28 18:12:28 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-28 18:12:28 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-28 18:12:28 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-28 18:12:28 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-28 18:12:28 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-28 18:12:28 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-28 18:12:28 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-29 12:02:20 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:04:41 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:04:41 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=2) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:04:48 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:04:49 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=2) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:05:11 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:05:11 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=2) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:05:24 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:05:24 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=2) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:05:52 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:05:53 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=300) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:09:11 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:09:11 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=300) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:09:11 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:09:12 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:09:29 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:09:29 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=50.0, stock=8993) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-29 12:09:29 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:09:30 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:09:36 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:09:37 INFO  ProductsServiceController:51 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=31) corresponde al id 623332f29986be0866322d4d
+2022-04-29 12:09:37 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:09:37 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:09:45 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:09:46 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9909) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-29 12:09:46 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:09:46 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:09:52 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:09:52 INFO  ProductsServiceController:51 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=102) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-29 12:09:52 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:09:53 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:10:03 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:10:03 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=0) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:10:15 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:10:15 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=50) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:10:15 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:10:16 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:10:29 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:10:30 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=38) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:10:47 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:10:48 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=3800) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:10:48 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:10:48 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:10:56 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:10:56 INFO  ProductsServiceController:51 - El producto Product(id=6241ff5a76d37352c4484740, description=100% libre de hormonas, name=Leche, unitPrice=50.0, stock=9000) corresponde al id 6241ff5a76d37352c4484740
+2022-04-29 12:10:56 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:10:57 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:11:03 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:03 INFO  ProductsServiceController:51 - El producto Product(id=6246fe465606571f95b3ec06, description=100% caña de azucar, name=Azucar Ledesma, unitPrice=50.0, stock=8590) corresponde al id 6246fe465606571f95b3ec06
+2022-04-29 12:11:03 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:11:04 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:11:10 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:11 INFO  ProductsServiceController:51 - El producto Product(id=62616af468088a174717f1d6, description=Triple de dulce de leche, name=Alfajor, unitPrice=50.0, stock=9000) corresponde al id 62616af468088a174717f1d6
+2022-04-29 12:11:11 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:11:11 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:11:18 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:18 INFO  ProductsServiceController:51 - El producto Product(id=6269492202749f3f9fd133b6, description=Tomate Redondo Monsanto, name=Precio x kilo, unitPrice=120.0, stock=499) corresponde al id 6269492202749f3f9fd133b6
+2022-04-29 12:11:18 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:11:19 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:11:31 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:31 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:31 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:31 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:31 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:31 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:31 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:31 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:32 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=3760) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:11:32 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:32 INFO  ProductsServiceController:51 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=24) corresponde al id 623332f29986be0866322d4d
+2022-04-29 12:11:32 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:32 INFO  ProductsServiceController:51 - El producto Product(id=6241ff5a76d37352c4484740, description=100% libre de hormonas, name=Leche, unitPrice=50.0, stock=8985) corresponde al id 6241ff5a76d37352c4484740
+2022-04-29 12:11:32 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:11:32 INFO  ProductsServiceController:51 - El producto Product(id=6246fe465606571f95b3ec06, description=100% caña de azucar, name=Azucar Ledesma, unitPrice=50.0, stock=8589) corresponde al id 6246fe465606571f95b3ec06
+2022-04-29 12:11:32 INFO  ProductsServiceController:51 - El producto Product(id=6269492202749f3f9fd133b6, description=Tomate Redondo Monsanto, name=Precio x kilo, unitPrice=120.0, stock=484) corresponde al id 6269492202749f3f9fd133b6
+2022-04-29 12:11:33 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9857) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-29 12:11:33 INFO  ProductsServiceController:51 - El producto Product(id=62616af468088a174717f1d6, description=Triple de dulce de leche, name=Alfajor, unitPrice=50.0, stock=8985) corresponde al id 62616af468088a174717f1d6
+2022-04-29 12:11:33 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=298) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:11:33 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=50.0, stock=8988) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-29 12:11:33 INFO  ProductsServiceController:51 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=100) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-29 12:11:33 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=3760) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:13:24 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:13:25 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=3760) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:13:25 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:13:25 INFO  ProductsServiceController:51 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=24) corresponde al id 623332f29986be0866322d4d
+2022-04-29 12:13:25 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:13:25 INFO  ProductsServiceController:51 - El producto Product(id=6269492202749f3f9fd133b6, description=Tomate Redondo Monsanto, name=Precio x kilo, unitPrice=120.0, stock=484) corresponde al id 6269492202749f3f9fd133b6
+2022-04-29 12:13:25 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:13:26 INFO  ProductsServiceController:51 - El producto Product(id=62616af468088a174717f1d6, description=Triple de dulce de leche, name=Alfajor, unitPrice=50.0, stock=8985) corresponde al id 62616af468088a174717f1d6
+2022-04-29 12:13:26 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:13:26 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=298) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:13:26 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:13:27 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9857) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-29 12:13:27 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:13:27 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=50.0, stock=8988) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-29 12:13:27 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:13:27 INFO  ProductsServiceController:51 - El producto Product(id=6246fe465606571f95b3ec06, description=100% caña de azucar, name=Azucar Ledesma, unitPrice=50.0, stock=8589) corresponde al id 6246fe465606571f95b3ec06
+2022-04-29 12:13:27 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:13:28 INFO  ProductsServiceController:51 - El producto Product(id=6241ff5a76d37352c4484740, description=100% libre de hormonas, name=Leche, unitPrice=50.0, stock=8985) corresponde al id 6241ff5a76d37352c4484740
+2022-04-29 12:13:28 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:13:28 INFO  ProductsServiceController:51 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=100) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-29 12:14:07 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:07 INFO  ProductsServiceController:51 - El producto Product(id=626b03440a91f3634d5cb546, description=desc1, name=p, unitPrice=10.0, stock=10) corresponde al id 626b03440a91f3634d5cb546
+2022-04-29 12:14:07 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:14:08 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:14:13 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:13 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=3760) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:14:13 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:14 INFO  ProductsServiceController:51 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=24) corresponde al id 623332f29986be0866322d4d
+2022-04-29 12:14:14 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:14 INFO  ProductsServiceController:51 - El producto Product(id=6269492202749f3f9fd133b6, description=Tomate Redondo Monsanto, name=Precio x kilo, unitPrice=120.0, stock=484) corresponde al id 6269492202749f3f9fd133b6
+2022-04-29 12:14:14 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:15 INFO  ProductsServiceController:51 - El producto Product(id=62616af468088a174717f1d6, description=Triple de dulce de leche, name=Alfajor, unitPrice=50.0, stock=8985) corresponde al id 62616af468088a174717f1d6
+2022-04-29 12:14:15 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:15 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=298) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:14:15 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:15 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9857) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-29 12:14:15 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:16 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=50.0, stock=8988) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-29 12:14:16 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:16 INFO  ProductsServiceController:51 - El producto Product(id=626b03440a91f3634d5cb546, description=desc1, name=p, unitPrice=10.0, stock=0) corresponde al id 626b03440a91f3634d5cb546
+2022-04-29 12:14:16 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:16 INFO  ProductsServiceController:51 - El producto Product(id=6246fe465606571f95b3ec06, description=100% caña de azucar, name=Azucar Ledesma, unitPrice=50.0, stock=8589) corresponde al id 6246fe465606571f95b3ec06
+2022-04-29 12:14:16 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:17 INFO  ProductsServiceController:51 - El producto Product(id=6241ff5a76d37352c4484740, description=100% libre de hormonas, name=Leche, unitPrice=50.0, stock=8985) corresponde al id 6241ff5a76d37352c4484740
+2022-04-29 12:14:17 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:14:17 INFO  ProductsServiceController:51 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=100) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-29 12:16:03 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:16:03 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=50.0, stock=8988) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-29 12:16:04 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:16:04 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:16:07 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:16:08 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=298) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:16:08 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:16:08 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:16:15 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:16:15 INFO  ProductsServiceController:51 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=24) corresponde al id 623332f29986be0866322d4d
+2022-04-29 12:16:15 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:16:16 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:16:19 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:16:19 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9857) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-29 12:16:19 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:16:20 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:16:24 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:16:24 INFO  ProductsServiceController:51 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=100) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-29 12:16:24 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:16:25 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:16:29 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:16:29 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=3760) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:16:29 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:16:30 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:16:34 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:16:35 INFO  ProductsServiceController:51 - El producto Product(id=6241ff5a76d37352c4484740, description=100% libre de hormonas, name=Leche, unitPrice=50.0, stock=8985) corresponde al id 6241ff5a76d37352c4484740
+2022-04-29 12:16:35 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:16:35 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:16:39 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:16:40 INFO  ProductsServiceController:51 - El producto Product(id=6246fe465606571f95b3ec06, description=100% caña de azucar, name=Azucar Ledesma, unitPrice=50.0, stock=8589) corresponde al id 6246fe465606571f95b3ec06
+2022-04-29 12:16:40 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:16:40 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:16:44 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:16:45 INFO  ProductsServiceController:51 - El producto Product(id=62616af468088a174717f1d6, description=Triple de dulce de leche, name=Alfajor, unitPrice=50.0, stock=8985) corresponde al id 62616af468088a174717f1d6
+2022-04-29 12:16:45 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:16:45 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:17:05 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:06 INFO  ProductsServiceController:51 - El producto Product(id=6269492202749f3f9fd133b6, description=Tomate Redondo Monsanto, name=Precio x kilo, unitPrice=120.0, stock=484) corresponde al id 6269492202749f3f9fd133b6
+2022-04-29 12:17:06 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:17:06 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:17:10 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:10 INFO  ProductsServiceController:51 - El producto Product(id=62694c1002749f3f9fd133b7, description=Precio x kilo, name=Carne grado A5, unitPrice=2000.0, stock=6972) corresponde al id 62694c1002749f3f9fd133b7
+2022-04-29 12:17:10 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:17:10 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:17:15 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:15 INFO  ProductsServiceController:51 - El producto Product(id=62694c4502749f3f9fd133b8, description=Precio x kilo, name=Semillas de Girasol, unitPrice=100.0, stock=683) corresponde al id 62694c4502749f3f9fd133b8
+2022-04-29 12:17:15 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:17:16 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:17:20 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:20 INFO  ProductsServiceController:51 - El producto Product(id=62694c7702749f3f9fd133b9, description=Precio x unidad, name=Cortadora de Cesped Jonh Deer, unitPrice=10000.0, stock=54) corresponde al id 62694c7702749f3f9fd133b9
+2022-04-29 12:17:20 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:17:21 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:17:27 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:27 INFO  ProductsServiceController:51 - El producto Product(id=62694c9b02749f3f9fd133ba, description=Precio x unidad, name=Anafe Electrico, unitPrice=2000.0, stock=63) corresponde al id 62694c9b02749f3f9fd133ba
+2022-04-29 12:17:27 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:17:28 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:17:35 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:36 INFO  ProductsServiceController:51 - El producto Product(id=62694d9402749f3f9fd133bb, description=Monitor LG 60 pulgadas, name=Monitor, unitPrice=80000.0, stock=62) corresponde al id 62694d9402749f3f9fd133bb
+2022-04-29 12:17:36 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:17:36 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:17:43 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:43 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=3759) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:17:43 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:44 INFO  ProductsServiceController:51 - El producto Product(id=62694c7702749f3f9fd133b9, description=Precio x unidad, name=Cortadora de Cesped Jonh Deer, unitPrice=10000.0, stock=53) corresponde al id 62694c7702749f3f9fd133b9
+2022-04-29 12:17:44 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:44 INFO  ProductsServiceController:51 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=23) corresponde al id 623332f29986be0866322d4d
+2022-04-29 12:17:44 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:44 INFO  ProductsServiceController:51 - El producto Product(id=62694d9402749f3f9fd133bb, description=Monitor LG 60 pulgadas, name=Monitor, unitPrice=80000.0, stock=42) corresponde al id 62694d9402749f3f9fd133bb
+2022-04-29 12:17:44 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:45 INFO  ProductsServiceController:51 - El producto Product(id=62694c9b02749f3f9fd133ba, description=Precio x unidad, name=Anafe Electrico, unitPrice=2000.0, stock=62) corresponde al id 62694c9b02749f3f9fd133ba
+2022-04-29 12:17:45 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:45 INFO  ProductsServiceController:51 - El producto Product(id=6269492202749f3f9fd133b6, description=Tomate Redondo Monsanto, name=Precio x kilo, unitPrice=120.0, stock=483) corresponde al id 6269492202749f3f9fd133b6
+2022-04-29 12:17:45 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:46 INFO  ProductsServiceController:51 - El producto Product(id=62616af468088a174717f1d6, description=Triple de dulce de leche, name=Alfajor, unitPrice=50.0, stock=8984) corresponde al id 62616af468088a174717f1d6
+2022-04-29 12:17:46 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:46 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=288) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:17:46 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:46 INFO  ProductsServiceController:51 - El producto Product(id=62694c4502749f3f9fd133b8, description=Precio x kilo, name=Semillas de Girasol, unitPrice=100.0, stock=682) corresponde al id 62694c4502749f3f9fd133b8
+2022-04-29 12:17:46 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:47 INFO  ProductsServiceController:51 - El producto Product(id=6241ff5a76d37352c4484740, description=100% libre de hormonas, name=Leche, unitPrice=50.0, stock=8984) corresponde al id 6241ff5a76d37352c4484740
+2022-04-29 12:17:47 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:47 INFO  ProductsServiceController:51 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=99) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-29 12:17:47 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:47 INFO  ProductsServiceController:51 - El producto Product(id=62694c1002749f3f9fd133b7, description=Precio x kilo, name=Carne grado A5, unitPrice=2000.0, stock=6971) corresponde al id 62694c1002749f3f9fd133b7
+2022-04-29 12:17:47 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:48 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9856) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-29 12:17:48 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:48 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=50.0, stock=8978) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-29 12:17:48 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:17:48 INFO  ProductsServiceController:51 - El producto Product(id=6246fe465606571f95b3ec06, description=100% caña de azucar, name=Azucar Ledesma, unitPrice=50.0, stock=8588) corresponde al id 6246fe465606571f95b3ec06
+2022-04-29 12:18:39 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:39 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=3759) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:18:39 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:40 INFO  ProductsServiceController:51 - El producto Product(id=62694c7702749f3f9fd133b9, description=Precio x unidad, name=Cortadora de Cesped Jonh Deer, unitPrice=10000.0, stock=53) corresponde al id 62694c7702749f3f9fd133b9
+2022-04-29 12:18:40 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:40 INFO  ProductsServiceController:51 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=23) corresponde al id 623332f29986be0866322d4d
+2022-04-29 12:18:40 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:41 INFO  ProductsServiceController:51 - El producto Product(id=62694d9402749f3f9fd133bb, description=Monitor LG 60 pulgadas, name=Monitor, unitPrice=80000.0, stock=42) corresponde al id 62694d9402749f3f9fd133bb
+2022-04-29 12:18:41 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:41 INFO  ProductsServiceController:51 - El producto Product(id=62694c9b02749f3f9fd133ba, description=Precio x unidad, name=Anafe Electrico, unitPrice=2000.0, stock=62) corresponde al id 62694c9b02749f3f9fd133ba
+2022-04-29 12:18:41 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:41 INFO  ProductsServiceController:51 - El producto Product(id=6269492202749f3f9fd133b6, description=Tomate Redondo Monsanto, name=Precio x kilo, unitPrice=120.0, stock=483) corresponde al id 6269492202749f3f9fd133b6
+2022-04-29 12:18:41 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:42 INFO  ProductsServiceController:51 - El producto Product(id=62616af468088a174717f1d6, description=Triple de dulce de leche, name=Alfajor, unitPrice=50.0, stock=8984) corresponde al id 62616af468088a174717f1d6
+2022-04-29 12:18:42 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:42 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=288) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:18:42 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:42 INFO  ProductsServiceController:51 - El producto Product(id=62694c4502749f3f9fd133b8, description=Precio x kilo, name=Semillas de Girasol, unitPrice=100.0, stock=682) corresponde al id 62694c4502749f3f9fd133b8
+2022-04-29 12:18:42 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:43 INFO  ProductsServiceController:51 - El producto Product(id=6241ff5a76d37352c4484740, description=100% libre de hormonas, name=Leche, unitPrice=50.0, stock=8984) corresponde al id 6241ff5a76d37352c4484740
+2022-04-29 12:18:43 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:43 INFO  ProductsServiceController:51 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=99) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-29 12:18:43 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:44 INFO  ProductsServiceController:51 - El producto Product(id=62694c1002749f3f9fd133b7, description=Precio x kilo, name=Carne grado A5, unitPrice=2000.0, stock=6971) corresponde al id 62694c1002749f3f9fd133b7
+2022-04-29 12:18:44 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:44 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9856) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-29 12:18:44 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:44 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=50.0, stock=8978) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-29 12:18:44 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:18:45 INFO  ProductsServiceController:51 - El producto Product(id=6246fe465606571f95b3ec06, description=100% caña de azucar, name=Azucar Ledesma, unitPrice=50.0, stock=8588) corresponde al id 6246fe465606571f95b3ec06
+2022-04-29 12:20:22 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:22 INFO  ProductsServiceController:51 - El producto Product(id=623e05955f50a84bad81980e, description=100% Libre de Hormonas, name=Leche, unitPrice=50.0, stock=3759) corresponde al id 623e05955f50a84bad81980e
+2022-04-29 12:20:22 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:23 INFO  ProductsServiceController:51 - El producto Product(id=62694c7702749f3f9fd133b9, description=Precio x unidad, name=Cortadora de Cesped Jonh Deer, unitPrice=10000.0, stock=53) corresponde al id 62694c7702749f3f9fd133b9
+2022-04-29 12:20:23 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:23 INFO  ProductsServiceController:51 - El producto Product(id=623332f29986be0866322d4d, description=0% cacao, name=Chocolate Ingles, unitPrice=15.0, stock=23) corresponde al id 623332f29986be0866322d4d
+2022-04-29 12:20:23 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:23 INFO  ProductsServiceController:51 - El producto Product(id=62694d9402749f3f9fd133bb, description=Monitor LG 60 pulgadas, name=Monitor, unitPrice=80000.0, stock=42) corresponde al id 62694d9402749f3f9fd133bb
+2022-04-29 12:20:23 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:24 INFO  ProductsServiceController:51 - El producto Product(id=62694c9b02749f3f9fd133ba, description=Precio x unidad, name=Anafe Electrico, unitPrice=2000.0, stock=62) corresponde al id 62694c9b02749f3f9fd133ba
+2022-04-29 12:20:24 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:24 INFO  ProductsServiceController:51 - El producto Product(id=6269492202749f3f9fd133b6, description=Tomate Redondo Monsanto, name=Precio x kilo, unitPrice=120.0, stock=483) corresponde al id 6269492202749f3f9fd133b6
+2022-04-29 12:20:24 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:25 INFO  ProductsServiceController:51 - El producto Product(id=62616af468088a174717f1d6, description=Triple de dulce de leche, name=Alfajor, unitPrice=50.0, stock=8984) corresponde al id 62616af468088a174717f1d6
+2022-04-29 12:20:25 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:25 INFO  ProductsServiceController:51 - El producto Product(id=623235d053addd3c33fa788f, description=90% cacao, name=Chocolate Ecuatoriano, unitPrice=25.0, stock=288) corresponde al id 623235d053addd3c33fa788f
+2022-04-29 12:20:25 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:25 INFO  ProductsServiceController:51 - El producto Product(id=62694c4502749f3f9fd133b8, description=Precio x kilo, name=Semillas de Girasol, unitPrice=100.0, stock=682) corresponde al id 62694c4502749f3f9fd133b8
+2022-04-29 12:20:25 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:26 INFO  ProductsServiceController:51 - El producto Product(id=6241ff5a76d37352c4484740, description=100% libre de hormonas, name=Leche, unitPrice=50.0, stock=8984) corresponde al id 6241ff5a76d37352c4484740
+2022-04-29 12:20:26 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:26 INFO  ProductsServiceController:51 - El producto Product(id=623b7f51ab82336a3980dc57, description=Industria Argentina, name=Samsung 24'', unitPrice=24000.5, stock=99) corresponde al id 623b7f51ab82336a3980dc57
+2022-04-29 12:20:26 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:26 INFO  ProductsServiceController:51 - El producto Product(id=62694c1002749f3f9fd133b7, description=Precio x kilo, name=Carne grado A5, unitPrice=2000.0, stock=6971) corresponde al id 62694c1002749f3f9fd133b7
+2022-04-29 12:20:26 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:27 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c9, description=85% cacao, name=Chocolate, unitPrice=100.5, stock=9856) corresponde al id 622b5b18e9d27f7c4330a9c9
+2022-04-29 12:20:27 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:27 INFO  ProductsServiceController:51 - El producto Product(id=622b5b18e9d27f7c4330a9c2, description=9% cacao, name=Chocolate Australiano, unitPrice=50.0, stock=8978) corresponde al id 622b5b18e9d27f7c4330a9c2
+2022-04-29 12:20:27 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:20:27 INFO  ProductsServiceController:51 - El producto Product(id=6246fe465606571f95b3ec06, description=100% caña de azucar, name=Azucar Ledesma, unitPrice=50.0, stock=8588) corresponde al id 6246fe465606571f95b3ec06
+2022-04-29 12:28:52 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-29 12:28:52 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-29 12:28:54 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:28:54 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:28:54 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-29 12:28:54 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-29 12:28:54 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:28:54 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-29 12:28:54 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-29 12:28:54 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-29 12:28:55 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-29 12:28:55 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-29 12:28:55 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-29 12:28:55 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-29 12:33:32 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-29 12:33:32 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-29 12:33:32 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:33:32 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:33:32 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-29 12:33:32 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-29 12:33:32 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:33:32 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-29 12:33:32 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-29 12:33:32 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-29 12:33:32 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-29 12:33:32 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-29 12:33:32 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-29 12:33:32 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-29 12:34:50 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-29 12:34:50 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-29 12:34:50 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:34:50 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:34:50 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-29 12:34:50 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-29 12:34:50 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:34:50 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-29 12:34:50 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-29 12:34:50 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-29 12:34:50 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-29 12:34:50 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-29 12:34:50 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-29 12:34:50 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-29 12:36:41 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-29 12:36:41 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-29 12:36:42 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:36:42 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:36:42 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-29 12:36:42 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-29 12:36:42 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:36:42 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-29 12:36:42 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-29 12:36:42 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-29 12:36:43 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-29 12:36:43 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-29 12:36:43 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-29 12:36:43 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-29 12:39:06 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-29 12:39:06 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-29 12:39:06 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:39:06 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:39:06 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-29 12:39:06 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-29 12:39:06 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:39:06 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-29 12:39:06 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-29 12:39:06 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-29 12:39:06 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-29 12:39:06 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-29 12:39:06 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-29 12:39:06 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-29 12:40:50 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-29 12:40:50 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-29 12:40:50 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:40:50 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:40:50 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-29 12:40:50 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-29 12:40:50 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:40:50 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-29 12:40:50 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-29 12:40:50 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-29 12:40:50 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-29 12:40:50 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-29 12:40:50 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-29 12:40:50 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-29 12:42:06 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-29 12:42:06 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-29 12:42:06 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:42:06 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:42:06 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-29 12:42:06 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-29 12:42:06 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:42:06 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-29 12:42:06 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-29 12:42:06 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-29 12:42:06 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-29 12:42:06 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-29 12:42:06 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-29 12:42:06 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-29 12:44:53 DEBUG ProductsServiceController:75 - Entrando al metodo updateProducts
+2022-04-29 12:44:53 INFO  ProductsServiceController:77 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue actualizado correctamente.
+2022-04-29 12:44:53 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 12:44:53 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 12:44:53 DEBUG ProductsServiceController:40 - Entrando al metodo getProducts
+2022-04-29 12:44:53 INFO  ProductsServiceController:42 - Se encontraron todos los productos.
+2022-04-29 12:44:53 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 12:44:53 INFO  ProductsServiceController:51 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) corresponde al id 1L
+2022-04-29 12:44:53 DEBUG ProductsServiceController:84 - Entrando al metodo deleteProducts
+2022-04-29 12:44:53 INFO  ProductsServiceController:87 - El producto null fue eliminado correctamente.
+2022-04-29 12:44:53 DEBUG ProductsServiceController:66 - Entrando al metodo createProducts
+2022-04-29 12:44:53 INFO  ProductsServiceController:68 - El producto Product(id=null, description=descripcion 1, name=dto1, unitPrice=20.0, stock=10) fue creado correctamente.
+2022-04-29 12:44:53 DEBUG ProductsServiceController:104 - Entrando al metodo addStockFromProducts
+2022-04-29 12:44:53 INFO  ProductsServiceController:106 - El stock del producto fue sumado correctamente.
+2022-04-29 14:59:18 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 14:59:19 INFO  ProductsServiceController:51 - El producto Product(id=62694d9402749f3f9fd133bb, description=Monitor LG 60 pulgadas, name=Monitor, unitPrice=80000.0, stock=42) corresponde al id 62694d9402749f3f9fd133bb
+2022-04-29 14:59:19 DEBUG ProductsServiceController:95 - Entrando al metodo reduceFromStockProducts
+2022-04-29 14:59:20 INFO  ProductsServiceController:97 - El stock del producto fue descontado correctamente.
+2022-04-29 14:59:27 DEBUG ProductsServiceController:49 - Entrando al metodo getProductsById
+2022-04-29 14:59:27 INFO  ProductsServiceController:51 - El producto Product(id=62694d9402749f3f9fd133bb, description=Monitor LG 60 pulgadas, name=Monitor, unitPrice=80000.0, stock=22) corresponde al id 62694d9402749f3f9fd133bb

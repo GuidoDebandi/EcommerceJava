@@ -1,0 +1,14 @@
+com\globallogic\demo\entity\Product.class
+com\globallogic\demo\ProductsApplication.class
+com\globallogic\demo\dto\external\in\ProductSalesDTO.class
+com\globallogic\demo\entity\operator\StockOperator.class
+com\globallogic\demo\error\exception\LackOfStockException.class
+com\globallogic\demo\error\ProductsErrorHandler.class
+com\globallogic\demo\repository\ProductRepository.class
+com\globallogic\demo\error\exception\NonExistentIdException.class
+com\globallogic\demo\service\ProductsService.class
+com\globallogic\demo\service\impl\ProductsServiceImpl.class
+com\globallogic\demo\dto\external\out\ProductDTO.class
+com\globallogic\demo\entity\operator\StockOperator$1.class
+com\globallogic\demo\controller\ProductsServiceController.class
+com\globallogic\demo\entity\operator\StockOperator$2.class

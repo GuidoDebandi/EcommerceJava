@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+	<Appenders>
+		<RollingFile name ="file"
+			fileName="logs"
+			filePattern="${filename}/logdemo.log">
+			<PatternLayout>
+				<pattern>%d %p %c{1.} [$t] %m%n </pattern>
+			</PatternLayout>
+			<SizeBasedTriggeringPolicy size="10 KB"/>
+		</RollingFile>
+		<Console name="ABC" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Logger name="recdemo1" level="info" additivity="false">
+			<AppenderRef ref="ABC" ></AppenderRef>
+		</Logger>
+		<Root level="fatal">
+			<AppenderRef ref="ABC" />
+		</Root>
+	</Loggers>
+</Configuration>

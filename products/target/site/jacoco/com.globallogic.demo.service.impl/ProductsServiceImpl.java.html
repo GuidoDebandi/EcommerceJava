@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>ProductsServiceImpl.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">products</a> &gt; <a href="index.source.html" class="el_package">com.globallogic.demo.service.impl</a> &gt; <span class="el_source">ProductsServiceImpl.java</span></div><h1>ProductsServiceImpl.java</h1><pre class="source lang-java linenums">package com.globallogic.demo.service.impl;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+import java.util.Optional;
+import java.util.stream.Collectors;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.globallogic.demo.controller.ProductsServiceController;
+import com.globallogic.demo.dto.external.in.ProductSalesDTO;
+import com.globallogic.demo.dto.external.out.ProductDTO;
+import com.globallogic.demo.entity.Product;
+import com.globallogic.demo.entity.operator.StockOperator;
+import com.globallogic.demo.error.exception.LackOfStockException;
+import com.globallogic.demo.error.exception.NonExistentIdException;
+import com.globallogic.demo.repository.ProductRepository;
+import com.globallogic.demo.service.ProductsService;
+
+@Service
+<span class="fc" id="L25">public class ProductsServiceImpl implements ProductsService {</span>
+	
+<span class="fc" id="L27">	Logger logger=LoggerFactory.getLogger(ProductsServiceController.class);</span>
+	
+	@Autowired
+	ProductRepository productRepository;
+
+	@Override
+	public Collection&lt;Product&gt; getProducts() {
+<span class="fc" id="L34">		return productRepository.findAll();</span>
+
+	}
+
+	@Override
+	public Product getProductById(String id) throws NonExistentIdException {
+<span class="fc" id="L40">		validateIdProduct(id);</span>
+<span class="fc" id="L41">		logger.debug(&quot;Se ha encontrado el producto buscado&quot;);</span>
+<span class="fc" id="L42">		return productRepository.findById(id).get();</span>
+	}
+
+	public void validateIdProduct(String id) throws NonExistentIdException {
+<span class="fc" id="L46">		Optional&lt;Product&gt; product = productRepository.findById(id);</span>
+<span class="fc bfc" id="L47" title="All 2 branches covered.">		if (product.isEmpty()){</span>
+<span class="fc" id="L48">			logger.debug(&quot;No se ha encontrado el producto buscado&quot;);</span>
+<span class="fc" id="L49">			throw new NonExistentIdException(&quot;Producto Inexistente&quot;);</span>
+		}
+<span class="fc" id="L51">	}</span>
+
+	@Override
+	public Product createProduct(Product product) {
+<span class="fc" id="L55">		return productRepository.save(product);</span>
+	}
+
+	@Override
+	public Product updateProduct(Product product) {
+<span class="fc" id="L60">		return productRepository.save(product);</span>
+	}
+
+	@Override
+	public void deleteProduct(String id) throws NonExistentIdException {
+<span class="fc" id="L65">		validateIdProduct(id);</span>
+<span class="fc" id="L66">		logger.debug(&quot;Se ha encontrado el producto ha eliminar&quot;);</span>
+<span class="fc" id="L67">		productRepository.deleteById(id);</span>
+<span class="fc" id="L68">	}</span>
+
+	public List&lt;Product&gt; searchProductsByDetails(List&lt;ProductSalesDTO&gt; listaProductSales) {
+<span class="fc" id="L71">		Collection&lt;Product&gt; products = this.getProducts();</span>
+		
+<span class="fc" id="L73">		List&lt;Product&gt;exactProducts= products.stream()</span>
+<span class="fc" id="L74">				.filter(prod -&gt; listaProductSales.stream().anyMatch(det -&gt; det.getIdProduct().equals(prod.getId())))</span>
+<span class="fc" id="L75">				.collect(Collectors.toList());</span>
+		
+<span class="fc" id="L77">		logger.debug(&quot;Se filtraron los productos por los detalles:&quot; + exactProducts.toString());</span>
+		
+<span class="fc" id="L79">		return exactProducts;</span>
+	}
+
+	@Override
+	public void modifyStock(List&lt;ProductSalesDTO&gt; listaProductSales, StockOperator operator) throws LackOfStockException{
+
+<span class="fc" id="L85">			List&lt;Product&gt; exactProducts = searchProductsByDetails(listaProductSales);</span>
+			
+<span class="fc" id="L87">			validateStock(listaProductSales, exactProducts, operator);</span>
+			
+<span class="fc" id="L89">			listaProductSales.stream().forEach(det -&gt; exactProducts.stream()</span>
+<span class="fc" id="L90">					.filter(prod -&gt; prod.getId().equals(det.getIdProduct())).forEach(prod -&gt; {</span>
+<span class="fc" id="L91">						prod.setStock(operator.calculateStock(prod.getStock(), det.getQuantity()));</span>
+<span class="fc" id="L92">						this.updateProduct(prod);</span>
+<span class="fc" id="L93">						logger.debug(&quot;Se ha modificado el stock del producto &quot;+prod.getName());</span>
+<span class="fc" id="L94">					}));</span>
+			
+			
+<span class="fc" id="L97">			logger.debug(&quot;Se ha modificado el stock de los productos.&quot;);</span>
+			
+<span class="fc" id="L99">	}</span>
+
+	public void validateStock(List&lt;ProductSalesDTO&gt; listaProductSales, List&lt;Product&gt; exactProducts, StockOperator operator) throws LackOfStockException {
+<span class="fc" id="L102">		List&lt;ProductSalesDTO&gt; erroresDTO = listaProductSales.stream()</span>
+<span class="pc bpc" id="L103" title="1 of 2 branches missed.">				.filter(det -&gt; exactProducts.stream().noneMatch(prod -&gt; det.getIdProduct().equals(prod.getId()))</span>
+<span class="pc bpc" id="L104" title="1 of 2 branches missed.">						|| det.getQuantity() &lt; 0)</span>
+<span class="fc" id="L105">				.collect(Collectors.toList());</span>
+<span class="fc" id="L106">		logger.debug(&quot;Se encontraron los siguientes errores en los detalles&quot; + erroresDTO.toString());</span>
+
+<span class="fc" id="L108">		List&lt;Product&gt; erroresProduct = exactProducts.stream()</span>
+<span class="fc" id="L109">				.filter(prod -&gt; listaProductSales.parallelStream().anyMatch(</span>
+<span class="pc bpc" id="L110" title="1 of 4 branches missed.">						det -&gt; det.getIdProduct().equals(prod.getId()) &amp;&amp; checkQuantity(prod.getStock(), det.getQuantity(), operator)))</span>
+<span class="fc" id="L111">				.collect(Collectors.toList());</span>
+		
+<span class="fc" id="L113">		logger.debug(&quot;Se encontraron los siguientes errores en los productos&quot; + erroresProduct.toString());</span>
+
+<span class="pc bpc" id="L115" title="2 of 4 branches missed.">		if (erroresProduct.size() &gt; 0 || erroresDTO.size() &gt; 0) {</span>
+<span class="nc" id="L116">			String badProducts = &quot;No se ha podido efectuar el descuento de stock por los siguientes productos:\n&quot;;</span>
+
+<span class="nc bnc" id="L118" title="All 2 branches missed.">			for (Product prod : erroresProduct) {</span>
+<span class="nc" id="L119">				badProducts += prod.getName() + &quot;:&quot; + &quot; No cuenta con el stock suficiente para el pedido &quot; + &quot;\n&quot;;</span>
+<span class="nc" id="L120">			}</span>
+<span class="nc bnc" id="L121" title="All 2 branches missed.">			for (ProductSalesDTO det : erroresDTO) {</span>
+<span class="nc bnc" id="L122" title="All 2 branches missed.">				String detError = det.getQuantity() &lt; 0 ? &quot;Quantity no valida para este metodo&quot;</span>
+<span class="nc" id="L123">						: &quot;idProduct inexistente&quot;;</span>
+
+<span class="nc" id="L125">				badProducts += det.toString() + &quot;:&quot; + detError + &quot;\n&quot;;</span>
+<span class="nc" id="L126">			}</span>
+<span class="nc" id="L127">			throw new LackOfStockException(badProducts);</span>
+		}
+
+<span class="fc" id="L130">	}</span>
+	public boolean checkQuantity(Integer stock, Integer quantity, StockOperator operator) {
+<span class="pc bpc" id="L132" title="1 of 3 branches missed.">		switch (operator.getIndicator()) {</span>
+		case &quot;+&quot;:
+<span class="fc" id="L134">			logger.debug(&quot;Se reconocio al operador como sumar&quot;);</span>
+<span class="pc bpc" id="L135" title="1 of 2 branches missed.">			return  (stock + quantity&lt;0);</span>
+		case &quot;-&quot;:
+<span class="fc" id="L137">			logger.debug(&quot;Se reconocio al operador como sumar&quot;);</span>
+<span class="pc bpc" id="L138" title="1 of 2 branches missed.">			return (stock - quantity&lt;0);</span>
+		default:
+<span class="nc" id="L140">			logger.debug(&quot;No se reconocio al operador&quot;);</span>
+<span class="nc" id="L141">			return false;</span>
+		}
+	}
+	
+	@Override
+	public List&lt;ProductDTO&gt; getListofProducts(List&lt;String&gt; ids) throws NonExistentIdException  {
+		
+<span class="nc" id="L148">		Collection&lt;Product&gt; productsByIds= (Collection&lt;Product&gt;) productRepository.findAllById(ids);</span>
+<span class="nc" id="L149">		List&lt;ProductDTO&gt; prodListDTO = new ArrayList&lt;ProductDTO&gt;();</span>
+<span class="nc bnc" id="L150" title="All 2 branches missed.">		for(Product p : productsByIds) {</span>
+<span class="nc" id="L151">			ProductDTO pDTO = new ProductDTO();</span>
+<span class="nc" id="L152">			pDTO.setId(p.getId());</span>
+<span class="nc" id="L153">			pDTO.setName(p.getName());</span>
+<span class="nc" id="L154">			pDTO.setStock(p.getStock());</span>
+<span class="nc" id="L155">			pDTO.setUnitPrice(p.getUnitPrice());</span>
+<span class="nc" id="L156">			prodListDTO.add(pDTO);</span>
+<span class="nc" id="L157">		}</span>
+<span class="nc bnc" id="L158" title="All 2 branches missed.">		if(productsByIds.size()&lt;((List&lt;String&gt;)ids).size()) {</span>
+<span class="nc" id="L159">			throw new NonExistentIdException(&quot;Uno o mas elementos no fueron encontrados en la BD&quot;);</span>
+		}
+<span class="nc" id="L161">		return prodListDTO;</span>
+	}
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.8.202204050719</span></div></body></html>

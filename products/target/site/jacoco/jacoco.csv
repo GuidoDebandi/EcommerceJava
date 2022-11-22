@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+products,com.globallogic.demo.controller,ProductsServiceController,12,137,0,0,2,31,1,9,1,9
+products,com.globallogic.demo.service.impl,ProductsServiceImpl,119,273,18,13,25,50,14,23,1,20
+products,com.globallogic.demo,ProductsApplication,14,7,0,0,5,2,1,2,1,2

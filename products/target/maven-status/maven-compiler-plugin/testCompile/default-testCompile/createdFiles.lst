@@ -1,0 +1,4 @@
+com\globallogic\demo\service\ProductServiceImplTest.class
+com\globallogic\demo\controller\ProductsServiceControllerTest.class
+com\globallogic\demo\ProductsApplicationTests.class
+com\globallogic\demo\repository\ProductsRepositoryTest.class

@@ -1,0 +1,12 @@
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\controller\ProductsServiceController.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\dto\external\out\ProductDTO.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\entity\operator\StockOperator.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\entity\Product.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\service\impl\ProductsServiceImpl.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\ProductsApplication.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\error\exception\LackOfStockException.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\error\exception\NonExistentIdException.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\dto\external\in\ProductSalesDTO.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\error\ProductsErrorHandler.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\service\ProductsService.java
+C:\Users\Guido.Debandi\Desktop\Cisne\products\src\main\java\com\globallogic\demo\repository\ProductRepository.java
