@@ -1,0 +1,2 @@
+com\globallogic\adminserver\AdminserverApplication.class
+com\globallogic\adminserver\config\WebSecurityConfig.class
